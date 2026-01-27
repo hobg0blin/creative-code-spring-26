@@ -73,6 +73,7 @@ Please bookmark these links:
 As the class is on zoom, it is suggested to have access to a second monitor to be able to follow along more easily with the class demos.
 
 **Recommended Materials** 
+
 I highly encourage searching for extra resources online, as long as you cite your sources in your documentation. Some places I encourage you to look at:
 
 1. [The Nature of Code](https://natureofcode.com/book/): a free online book written by Dan Shiffman exploring different physics applications in p5.js
@@ -101,8 +102,9 @@ Each homework is due by midnight of the day listed in the schedule, typically th
 
 Your participation grade will be according to the following rubric.
 
-| A     | <ul><li>show up to class on time, keep camera on, and regularly participate<li>regular communication<li>submit work on time<ul> |
+| Grade | Requirements                                                                                                                    |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------- |
+| A     | <ul><li>show up to class on time, keep camera on, and regularly participate<li>regular communication<li>submit work on time<ul> |
 | B     | <ul><li>miss less than 4 classes<li>occasional communication<li>few late assignments<ul>                                        |
 | C / D | <ul><li>miss more than 4 classes<li>little communication<li>late/missing assignments<ul>                                        |
 | F     | <ul><li>miss more than 6 classes<li>no communication<li>missing assignments<ul>                                                 |
