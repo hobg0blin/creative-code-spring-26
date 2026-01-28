@@ -13,18 +13,18 @@ Creative Code aims to fuse computer programming and creativity to produce media 
 ### Expected Learning Outcomes:
 
 By the end of the term, students will:
-- Understand p5.js and JavaScript and develop creative projects in the p5 framework.
-- Understand and implement programming techniques that include conditional statements, for loops, object construction, arrays, and events.   
-- Write pseudocode to sequentially think through project development.
+- Develop a foundational understanding of p5.js and JavaScript.
+- Learn to develop creative projects in the p5.js framework.
+- Understand and implement programming techniques, including conditional statements, for loops, object construction, arrays, and events.   
 - Develop a familiarity with applications of creative code across a variety of topics and disciplines: generative art & writing, data visualization, interactive installations, sound art, and more.
-- Develop a critical and theoretical framework for analyzing emerging media artworks.
+- Develop a critical and theoretical framework for engaging with software and art built with code.
 
 ---
 ## Class Format & Expectations
 
 ### Class Format
 
-This class covers both technical and theoretical materials.  
+This class covers both technical and theoretical materials. 
 
 In practical sections, we will cover:
 
@@ -33,8 +33,7 @@ In practical sections, we will cover:
 
 In theoretical sections, we will cover:
 * Short readings from a variety of artists, programmers, and educators.
-* Artwork that incorporates programming and algorithmic thinking. 
-* Feedback and critique of each other's work. 
+* Artwork and software that incorporate creativity and algorithmic thinking. 
 
 Outside of class, you are expected to:
 
@@ -44,11 +43,11 @@ Outside of class, you are expected to:
 
 A typical week will look like:
 
-1. Group presentation
+1. Student presentation
 2. Homework/reading discussion
 3. Short lecture
 4. Introduce new technical materials
-5. Practice new material in groups
+5. Practice new material
 
 ### Expectations
 
@@ -63,6 +62,7 @@ A typical week will look like:
     * Process over results. Try again, fail again, fail better.
     * Whether you struggled badly, learned something, or succeeded beyond your wildest expectations, you should always write up your process in your documentation. 
     * If you made a solid attempt, engaged with course materials, and wrote documentation, you get full credit, even if it didn't work!
+    
 ### Required Materials
 
 Please bookmark these links:
@@ -86,38 +86,27 @@ I highly encourage searching for extra resources online, as long as you cite you
 ---
 
 ### Grading
-1. Midterm: 10%
+1. Midterm: 15%
 2. Final: 20%
 3. Homework: 25% 
-4. Group Presentation: 5%
-5. Participation: 30%
+4. Presentation: 5%
+5. Participation: 35%
 
 I expect different levels of programming experience in this course, and projects will be graded on *effort* and *thoughtfulness*, not results. "Creative" is just as important as "code". Engaging with the readings, discussion topics, and themes of the class in your assignments is more important than writing perfect code. Embrace failure - even if your code doesn't run, you will do well in this class as long as you document what you tried, what you learned, and what you're struggling with.
 
+Each of the projects (midterm and final) listed above will have their own detailed description available on Brightspace that includes due dates for your proposal, draft and final version.
 
-Each of the projects listed above will have their own detailed description available on Brightspace that includes due dates for your proposal, draft and final version.
 Each homework is due by midnight of the day listed in the schedule, typically the day before our class (Wednesday). The homework assignments and reading excerpts are on Brightspace.  
 
 #### Attendance & Participation
 
-Your participation grade will be according to the following rubric.
+Students are required to follow along with in-class demos and submit their work at the end of class for participation credit. These will count as your participation for the day. **If you do not have your camera on, or are not present in class to follow along with the in-class demos, you will not receive full participation**
 
-| Grade | Requirements                                                                                                                    |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------- |
-| A     | <ul><li>show up to class on time, keep camera on, and regularly participate<li>regular communication<li>submit work on time<ul> |
-| B     | <ul><li>miss less than 4 classes<li>occasional communication<li>few late assignments<ul>                                        |
-| C / D | <ul><li>miss more than 4 classes<li>little communication<li>late/missing assignments<ul>                                        |
-| F     | <ul><li>miss more than 6 classes<li>no communication<li>missing assignments<ul>                                                 |
-
-Not turning your camera on or arriving to class late will be considered an absence.
-
-If you are unable to participate in class for reasons out of your control, please let me know in advance. 
-
-Participation can take many forms: asking questions, going to office hours, sending and reading emails, class group discussion, arriving on time, going to class, taking notes, listening to peers, following instructions, active listening, etc. If you are actively engaging in class you will receive full participation credit.
+**This class has no excused and unexcused absences**. You may miss up to 3 classes without it impacting your grade. Two late attendances (meaning more than 5 minutes late) will result in an absence. If you miss a class, you are welcome to book office hours to make up for your missed participation for the day.
 
 #### Resubmission Policy
 
-You can resubmit any on-time submitted exercises (read: not the final or the midterm) based on feedback for full credit as long as you notify me in two ways:
+You can resubmit any on-time submitted homework (read: not the final or the midterm) based on feedback for full credit as long as you notify me in two ways:
 
 - Send an email with the name of the updated submission
 - Write that you updated the assignment in the assignment comments. 
@@ -126,9 +115,14 @@ You can resubmit up until the Monday after our final class. This is to ensure yo
 
 
 #### Late Assignments
+
 Any work is considered late if it is submitted after the due date posted on Brightspace. For every day the work is late, the student will receive a 10% penalty, up to a penalty of 50% of the assignment grade. You are not allowed to resubmit late work for an updated grade.
 
-Extensions *may* be granted upon request. If you request an extension 24 hours or more before the due date and I confirm it, your grade will not be affected. Extensions will be given by discretion and may not be possible for certain assignments.
+Extensions are available on an as-needed basis, but must be requested at least 24 hours before the assignment's due date. **There will be no extensions for the midterm or the final.**
+
+### Extra Credit
+
+Extra credit will be offered on a rolling basis. Please see the related discussion post.
 
 ---
 ## Schedule
@@ -145,14 +139,14 @@ Please be advised that the schedule below is subject to change. You are responsi
 | **Week 4:** 2/26/26  | **Computational Drawing**<br>- Functions, for loops, algorithms<br>- Plotter art, math                                                               | Homework #3 due Wednesday, March 4th                    |
 | **Week 5:** 3/5/26   | **Recursion, recursion, recursion**<br>- Repetition & nested loops<br>- Loop-based artwork, infinity                                                 |                                                         |
 | **Week 6:** 3/12/26  | **Data and its discontents**<br>- Arrays & data structures I<br>- Data art & visualization<br>- Introduce midterm                                    | Homework #4 due Wednesday, March 18th                   |
-| **Week 7:** 3/19/26  | **Sound**<br>-Arrays & data structures II<br>- Working with sound in p5<br>- Sound art and generative music                                          | Draft materials for project 1 due Wednesday, March 25th |
+| **Week 7:** 3/19/26  | **Sound**<br>- Arrays & data structures II<br>- Working with sound in p5<br>- Sound art and generative music                                         | Draft materials for project 1 due Wednesday, March 25th |
 | **Week 8:** 3/26/26  | **Time**<br>- Timers in p5<br>- Time-based art & media <br>- Self-guided work on midterm                                                             | Midterm presentation due 4/2/26                         |
 | **Week 9:** 4/2/26   | **Midterm presentations**                                                                                                                            | N/A                                                     |
 | 4/9/26               | **NO CLASS (SPRING BREAK)**                                                                                                                          |                                                         |
 | **Week 10:** 4/16/26 | **Generative ecosystems**<br>- Automata, procedural generation, emergent outcomes<br>- ML/AI/LLMs/vibe coding/whatever they're calling it these days | Homework #5 due Wednesday, April 22nd                   |
-| **Week 11:** 4/21/26 | **MAKEUP CLASS**<br>- Classes follow Thursday schedule<br>-Review or cover special topics based on class vote                                        |                                                         |
+| **Week 11:** 4/21/26 | **MAKEUP CLASS**<br>- Classes follow Thursday schedule<br>- Review or cover special topics based on class vote                                       |                                                         |
 | **Week 12:** 4/23/26 | **Welcome to my webpage**<br>- HTML/CSS/DOM<br>- Web hosting<br>- Net art<br>- Introduce final project                                               | Homework #6 due Wednesday, April 29                     |
-| **Week 13:** 4/30/26 | **Interactivity**<br>- p5 touch, ml5<br>-Interactive art, games, alt control                                                                         | Draft materials for final due Wednesday, May 6th        |
+| **Week 13:** 4/30/26 | **Interactivity**<br>- p5 touch, ml5<br>- Interactive art, games, alt control                                                                        | Draft materials for final due Wednesday, May 6th        |
 | **Week 14:** 5/7/26  | **GOTO 10**<br>- Where to go from here<br>- Creative code as a field<br>- Prepare draft presentations, in-class time to work on final project        | Final presentation due May 14th                         |
 | **Week 15:** 5/14/26 | **FINAL CLASS**<br>- Present final projects<br>- You're done!                                                                                        |                                                         |
 | **Monday** 5/18/26   | **FINAL DAY TO RESUBMIT ASSIGNMENTS**                                                                                                                |                                                         |
@@ -167,7 +161,7 @@ Hunter College upholds the right to promote academic integrity on its campus as 
 
 #### Use of Generative Artificial Intelligence (AI) Tools: 
 
-For the first half of this course I would highly encourage you to to _avoid_ using AI entirely. We will cover effective use cases later in the semester, but you will find you can go much further executing your ideas when you have a solid understanding of core programming techniques.   
+For the first half of this course I would highly encourage you to to _avoid_ using AI. We will cover effective use cases later in the semester, but you will find you can go much further executing your ideas when you have a solid understanding of core programming techniques.   
   
 With this in mind:
 * You MAY use AI in the initial stages of research, idea generation, and drafting.
@@ -181,6 +175,7 @@ The same applies to websites like StackOverflow or other pre-existing sources of
 
 
 ### Accessibility 
+
 In compliance with the American Disability Act of 1990 (ADA) and with Section 504 of the Rehabilitation Act of 1973, Hunter College is committed to ensuring educational parity and accommodations for all students with documented disabilities and/or medical conditions. It is recommended that all students with documented disabilities (Emotional, Medical, Physical, and/or Learning) consult the Office of Accessibility located in Room E1124 to secure necessary academic accommodations. For further information and assistance, please call (212) 772-4857/TTY (212) 650-3230. If you have registered with the Office of Accessibility, please let me know at the start of the term.
 
 
