@@ -36,12 +36,16 @@ General stuff:
 
 ### me
 
-| Brent Bailey (he/him)                                                                                                                                                                        |                                                                                                                            |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Software engineer & creative technologist                                                                                                                                                    | [bront.rodeo](https://www.bront.rodeo/)                                                                                    |
-| currently: web dev & teaching @ hunter                                                                                                                                                       | previously: eyebeam, ITP, a whole lot of artist studios & startups                                                         |
-| things you can ask me about: most kinds of code, software engineering, machine learning, the new media art industrial complex, portfolio review, resume review, grad school, games & gamedev | please ask me about these things in [office hours](https://calendly.com/brentlbailey/office-hours) - book by 5pm Wednesday |
+| Brent Bailey (he/him)                                                                                                                                                     |                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Software engineer & creative technologist                                                                                                                                 | [bront.rodeo](https://www.bront.rodeo/)                                                                                    |
+| currently: web dev & teaching @ hunter                                                                                                                                    | previously: eyebeam, ITP, a whole lot of artist studios & startups                                                         |
+| things you can ask me about: code, machine learning, the new media art industrial complex, working as a programmer, portfolio/resume review, grad school, games & gamedev | please ask me about these things in [office hours](https://calendly.com/brentlbailey/office-hours) - book by 5pm Wednesday |
+| what interests me: games, AI (good and bad), old computers                                                                                                                | what i spend my free time doing: writing, reading, playing ARC raiders, hanging out with my cat                            |
 
+![](<./images/week_01/ffion.webp>)
+
+This is Ffion, you'll probably meet him at some point.
 ### you
 
 * Name, pronouns (optional), year, program
