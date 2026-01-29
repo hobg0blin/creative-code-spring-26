@@ -68,11 +68,11 @@ Make an account: <https://editor.p5js.org/>
 
 ### General Flow
 
-| How to submit homework                                 |                                                           |
-| ------------------------------------------------------ | --------------------------------------------------------- |
+| How to submit homework                                 |                                                          |
+| ------------------------------------------------------ | -------------------------------------------------------- |
 | 1. Rename sketch to enable saving                      | ![../../images/week_01/1.png](<./images/week_01/1.png>)] |
 | 2. Save your sketch (you can also press ⌘+S or Ctrl+S) | ![](<./images/week_01/2.png>)                            |
-| 3. Finish your assignment                              |                                                           |
+| 3. Finish your assignment                              |                                                          |
 | 4. Tidy your code                                      | ![](<./images/week_01/tidy.png>)                         |
 | 5. Retrieve the URL and submit.                        | ![](<./images/week_01/url.png>)                          |
 
