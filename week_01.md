@@ -24,7 +24,7 @@ General stuff:
 
 * If I am ever going too fast through *any* material, please interrupt me! 
 * This is my first time using Brightspace, so bear with me.
-* You don't need permission to take a water break, go to the bathroom, etc. We'll usually take a longer break around the halfway mark.
+* Feel free to take a short break whenever you need one. We'll usually take a longer break around the halfway mark.
 * You can turn your camera off if you're eating/taking a break/whatever, just don't leave it off for extended periods of time.
 * If you have specific accessibility needs that I'm not meeting, please reach out to me privately. I'm happy to work with you to make sure this class works for you.
 * Questions? Comments? Needs? Email me! Open communication is greatly appreciated. If you have to miss class, expect to be late, or are struggling with an assignment, please let me know.
