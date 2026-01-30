@@ -246,6 +246,8 @@ Challenge:
 ---
 
 ## Demos
+
+- [in-class demo](https://editor.p5js.org/brondle/sketches/v86Uw43lo)
 ## Review Videos
 
 If you struggled with any of the material this week, please review these coding train videos.
