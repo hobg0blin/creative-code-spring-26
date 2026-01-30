@@ -244,8 +244,7 @@ Challenge:
 * Experiment with [curves](https://p5js.org/reference/#Curves) and [vertices](https://p5js.org/reference/#Vertex)
 
 ---
-
-## Demos
+## Demo
 
 - [in-class demo](https://editor.p5js.org/brondle/sketches/v86Uw43lo)
 ## Review Videos
@@ -260,9 +259,20 @@ If you struggled with any of the material this week, please review these coding 
 - [1.6 - comments](https://www.youtube.com/watch?v=xJcrPJuem5Q&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=7)
 
 ## Useful Misc Links
+- [p5 curve reference](https://p5js.org/reference/p5/curve/) - this does a good job of explaining the curve stuff I messed up in class.
 * [curve visualization](https://editor.p5js.org/samheckle/full/VIr36n9gq)
 * [p5 examples](https://p5js.org/examples/)
 * [p5 community](https://p5js.org/community/)
 * [p5 showcase, 2022](https://showcase.p5js.org/#/2022-All)
----
-
+## Stuff From Lecture
+- [Compos 68](https://monoskop.org/Compos_68)
+- [Wall Drawings - Sol Lewitt](https://massmoca.org/sol-lewitt/)
+- [Future Crew - Second Reality](https://www.youtube.com/watch?v=iw17c70uJes&t=1s)
+- [homestarrunner.com](https://homestarrunner.com/)
+- [A. Michael Noll](https://en.wikipedia.org/wiki/A._Michael_Noll)
+- [Process - Casey Reas](https://reas.com/process)
+- [Substrate - Jared Tarbell](http://www.complexification.net/gallery/machines/substrate/)
+- [Conway's Game of Life Easter Egg](https://www.google.com/search?client=firefox-b-1-d&q=conway%27s+game+of+life)
+- [No Man's Sky & Procedural Generation](https://www.thumbsticks.com/no-mans-sky-problem-procedural-generation/)
+- [Manual Input Workstation - Levin & Lieberman](https://www.flong.com/archive/projects/miw/index.html)
+- [Trombone champ on steam :)](https://store.steampowered.com/app/1059990/Trombone_Champ/)
