@@ -1,0 +1,16 @@
+
+| Criteria                   | **Description**                                                                                                                                                                                                         | Points |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| Completion of requirements | Does the assignment fit the prompt and include all the required items in the description? If it doesn't include the required items, does the documentation show evidence that you tried and explain where you got lost? | 5      |
+| Documentation              | Completed write-up and included citations of work.                                                                                                                                                                      | 5      |
+| Code proficiency & syntax  | "Do I think you wrote this code in your own words?". No weird syntax.                                                                                                                                                   | 5      |
+| Readability                | Code is tidied & commented.                                                                                                                                                                                             | 2      |
+| Above & Beyond             | Interesting and creative implementation of the exercise that goes beyond demos. This can include going beyond the technical materials covered in class, using your own designs, or pursuing your own creative goals.    | 3      |
+
+---
+
+- A: 18 or above
+- B: 16 or above
+- C: 14 or above
+- D: 12 or above
+- F: below 12

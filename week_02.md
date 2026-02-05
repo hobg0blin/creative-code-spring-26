@@ -234,6 +234,20 @@ If you struggled with any of the material this week, please review these coding 
 - [transformations part 2: `scale()`](https://www.youtube.com/watch?feature=shared&v=pkHZTWOoTLM)
 - [transformations part 3](https://www.youtube.com/watch?v=IVMvq9rd8dA)
 
-## Useful Misc Links
+## Stuff From Lecture
+- [Kente Cloth](https://en.wikipedia.org/wiki/Kente_cloth)
+- [Jacquard machine](https://en.wikipedia.org/wiki/Jacquard_machine)
+- [Girih Tiles](https://en.wikipedia.org/wiki/Girih)
+- [Piet Mondrian](https://www.wikiart.org/en/piet-mondrian)
+- [The Beginnings of Generative Art - A. Michaell Noll](https://ethw.org/First-Hand:The_Beginnings_of_Generative_Art)
+- [Vera Molnar  - machine imaginaire](https://www.vam.ac.uk/blog/museum-life/vera-molnar-machine-imaginaire-the-dance-of-hands-and-machine-thinking)
+- [All of Rafael Rozendaal's internet-based work](https://www.newrafael.com/internet)
+- [Compendium Lecture, Casey Reas](https://gray.reas.com/compendium_lecture/)
+- [Scrnsave](https://github.com/Masterjx9/ScrnSave)
+- [Milkdrop](https://en.wikipedia.org/wiki/MilkDrop)
 
--
+## Useful Misc Links
+- [Piet Mondrian, The First Digital Artist](https://www.prospectmagazine.co.uk/culture/46436/piet-mondrian-the-first-digital-artist)
+- [Algorithmic Pattern Catalogue](https://algorithmicpattern.org/)
+- [Programmed at the Whitney](https://whitney.org/exhibitions/programmed)
+- [Sleep mode](https://www.vice.com/en/article/celebrating-the-lost-art-of-the-screensaver/), [Exhibit page](https://nieuweinstituut.nl/en/projects/sleep-mode)
