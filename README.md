@@ -100,7 +100,7 @@ Each homework is due by midnight of the day listed in the schedule, typically th
 
 #### Attendance & Participation
 
-Students are required to follow along with in-class demos and submit their work at the end of class for participation credit. These will count as your participation for the day. **If you do not have your camera on, or are not present in class to follow along with the in-class demos, you will not receive full participation**
+Students are required to follow along with in-class demos and submit their work at the end of class for participation credit. These will count as your participation for the day. **If you do not have your camera on, or are not present in class to follow along with the in-class demos, you will not receive full participation.**
 
 **This class has no excused and unexcused absences**. You may miss up to 3 classes without it impacting your grade. Two late attendances (meaning more than 5 minutes late) will result in an absence. If you miss a class, you are welcome to book office hours to make up for your missed participation for the day.
 
@@ -140,14 +140,14 @@ Please be advised that the schedule below is subject to change. You are responsi
 | **Week 5:** 3/5/26   | **Recursion, recursion, recursion**<br>- Presentations 2<br>- Repetition & nested loops<br>- Loop-based artwork, infinity                                                 |                                                  |
 | **Week 6:** 3/12/26  | **Data and its discontents**<br>- Presentations 3<br>- Arrays & data structures I<br>- Data art & visualization<br>- Introduce midterm<br>                                |                                                  |
 | **Week 7:** 3/19/26  | **Sound**<br>- Presentations 4<br>- Arrays & data structures II<br>- Working with sound in p5<br>- Sound art and generative music                                         |                                                  |
-| **Week 8:** 3/26/26  | **Object-Oriented**<br>Presentations 5<br>- Objects and classes<br>- Making maintainable projects                                                                         | Midterm presentations due 4/2/26                 |
+| **Week 8:** 3/26/26  | **Object-Oriented**<br>- Objects and classes<br>- Making maintainable projects                                                                                            | Midterm presentations due 4/2/26                 |
 | **Week 9:** 4/2/26   | <br>**Midterm Presentations**                                                                                                                                             |                                                  |
 | 4/9/26               | **NO CLASS (SPRING BREAK)**                                                                                                                                               |                                                  |
-| **Week 10:** 4/16/26 | **Generative ecosystems**<br>- Presentations 6<br>- Automata, procedural generation, emergent outcomes<br>- ML/AI/LLMs/vibe coding/whatever they're calling it these days | Homework #4 due Wednesday, April 22nd            |
-| **Week 11:** 4/21/26 | **MAKEUP CLASS**<br>- Classes follow Thursday schedule<br>- Review or cover special topics based on class vote                                                            |                                                  |
-| **Week 12:** 4/23/26 | **Welcome to my webpage**<br>- Presentations 7<br>- HTML/CSS/DOM<br>- Web hosting<br>- Net art<br>- Introduce final project                                               | Homework #5 due Wednesday, April 29              |
-| **Week 13:** 4/30/26 | **Interactivity**<br>- Presentations 8<br>- External libraries (video, pose)<br>- Interactive art, games, alt control                                                     | Draft materials for final due Wednesday, May 6th |
-| **Week 14:** 5/7/26  | **GOTO 10**<br>- Presentations 9<br>- Where to go from here<br>- Prepare draft presentations, in-class time to work on final project                                      | Final presentation due May 14th                  |
+| **Week 10:** 4/16/26 | **Generative ecosystems**<br>- Presentations 5<br>- Automata, procedural generation, emergent outcomes<br>- ML/AI/LLMs/vibe coding/whatever they're calling it these days | Homework #4 due Wednesday, April 22nd            |
+| **Week 11:** 4/21/26 | **MAKEUP CLASS**<br>- Classes follow Thursday schedule<br>- Any makeup presentations<br>- Review or cover special topics based on class vote                              |                                                  |
+| **Week 12:** 4/23/26 | **Welcome to my webpage**<br>- Presentations 6<br>- HTML/CSS/DOM<br>- Web hosting<br>- Net art<br>- Introduce final project                                               | Homework #5 due Wednesday, April 29              |
+| **Week 13:** 4/30/26 | **Interactivity**<br>- Presentations 7<br>- External libraries (video, pose)<br>- Interactive art, games, alt control                                                     | Draft materials for final due Wednesday, May 6th |
+| **Week 14:** 5/7/26  | **GOTO 10**<br>- Where to go from here<br>- Prepare draft presentations, in-class time to work on final project                                                           | Final presentation due May 14th                  |
 | **Week 15:** 5/14/26 | **FINAL CLASS**<br>- Present final projects<br>- You're done!                                                                                                             |                                                  |
 | **Monday** 5/18/26   | **FINAL DAY TO RESUBMIT ASSIGNMENTS**                                                                                                                                     |                                                  |
 

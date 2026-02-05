@@ -7,7 +7,7 @@
 3. Break
 4. Tutorial: Variables & movement
 5. Assign presentation topics, next class overview (no class next week!)
-6. (If time): work on practice assignment
+6. (If time): work on practice assignment - due next Wednesday
 
 
 ---
