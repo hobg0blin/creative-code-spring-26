@@ -57,9 +57,9 @@ let myVariable;
 
 ##### `let` vs `var` vs `const`
 
-We basically always will use `let` because it is the modern way of declaring variables in JavaScript. You shouldn't really be using `const` or `var`, and these are usually flags for getting code from elsewhere. If you're curious:
+We will almost always use `let` because it is the modern way of declaring variables in JavaScript. You shouldn't really be using `const` or `var`, and these are usually flags for getting code from elsewhere. If you're curious:
 
-`let` is **block-scoped**: it can be **redefined** but not redeclared in the same block.
+`let` is **block-scoped**: it can be **redefined** but not redeclared in the same block (generally, a "block" means anything between two `{}` curly brackets).
 So:
 ```
 let x = 1
@@ -89,9 +89,17 @@ x=2 //will not work
 Assignment happens when we give that named variable a value using the `=`.
 
 ```js
-let teacher = "sam";
+let teacher = "brent";
 ```
 
+We can also modify assignments with arithmetic operators:
+```
+let teacher = "brent"
+console.log(teacher + " rules") // should print "brent rules"
+
+let one = 1
+console.log(one + 1) // should print 2
+```
 #### Variable Types
 
 JavaScript isn't specific about different variable types, but we do know when p5 accepts variables as parameters in functions it will be either a "Number" or "String".
@@ -174,31 +182,30 @@ function draw() {
 }
 ```
 
-The reason the declaration of the variable x (ie `let x = 20`) happens before the loop is because it will override any changes that happen inside the loop and motion wouldn't happen. So we need the variable to be `global`, or outside of both the `setup()` and the `draw()`. This gets into scope.
+The reason the declaration of the variable x (ie `let x = 20`) happens before the loop is because the loop will *reset* any valuables we declare inside it - every frame of the draw loop starts from scratch. So we need the variable to be `global`, or outside of both the `setup()` and the `draw()`. This gets into scope.
 
 ### Scope
 
-Scope is where code can "see" variables. It is defined within different `{}`. So the `setup()` has a scope that is different from the `draw()`. Global means that variables exist inside the entire file and are not limited by the `{}`.
+Scope is where code can "see" variables. It is defined within different `{}` blocks. So the `setup()` has a scope that is different from the `draw()`. Global means that variables exist inside the entire file and are not limited by the `{}`. This allows us to change them inside the draw loop and have that change *persist* across frames.
 
 ### Randomness
 
 [`random()` p5 reference](https://p5js.org/reference/p5/random/)
-We can incorporate randomness into our sketches by using `random()`. For now, randomness can take 2 parameters
+We can incorporate randomness into our sketches by using `random()`. For now, random can take 2 parameters:
 
 ```js
 random([min], [max]);
 ```
 
-These are numbers, with inclusive minimum and exclusive maximum. If you don't pass in a number it will generate a long decimal between 0 and 1.
+These are numbers, with inclusive minimum and exclusive maximum, meaning it can randomly generate the minimum number but will never generate the maximum number or any numbers larger than that. If you don't pass in a number it will generate a long decimal between 0 and 1.
 
-Usually with randomness we want round numbers, so we can use `floor()` to round the number down.
+Random will give us floats (numbers with decimal points, like 1.234234) instead of integers (round numbers like 1), so if we want to use integers for something we can use `floor()` to round the number down.
 
 ```js
 let randNumber = random();
 randNumber = floor(randNumber);
 ```
 
-This is similar to overriding a value of a mathematical equation.
 
 ### `push()` and `pop()`
 
