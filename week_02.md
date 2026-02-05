@@ -17,7 +17,7 @@
 In groups of 3:
 
 - Introduce yourselves
-- Share your work & documentation. If there were any parts where you struggled, share those questions and see if your group can find an answer.
+- Share your work & documentation. If there were any parts where you struggled, share those questions and see if your group can find an answer. If you can't, write down your questions and bring them up when we reconvene.
 - Work together to answer to the following review questions:
   1. What function is called every frame? Which function is called only once?
   2. What is a parameter?
