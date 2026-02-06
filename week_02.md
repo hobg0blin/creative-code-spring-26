@@ -227,7 +227,7 @@ Will give us:
 
 ## Demos
 
-- 
+- [In-class](https://editor.p5js.org/brondle/sketches/VbwGq17EB)
 
 ## Review Videos
 
