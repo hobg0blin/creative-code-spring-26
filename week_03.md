@@ -20,10 +20,11 @@
 - Usually you'll have 2 weeks to work on a homework assignment, and no reading the week it's due.
 - Brightspace automatically gives you a 0 if you miss an assignment deadline, but for the record, you can turn in homework late! Your grade will be reduced by 10% for each day it's late, up to 50%.
 - That said, it is generally better to turn it in on time even if you don't feel good about it!
-- **CITE YOUR SOURCES**. If I see weird code that we haven't covered in class, I am going to ding you on code proficiency and syntax unless you explain where you got it from in your documentation (and show me that you at least understand what it does). You can use AI or StackOverflow, but cite them and show me that you didn't just copy and paste.
+- For every project in this class, you are required to write documentation. [Some tips for doing that](<./Writing Good Documentation.md>).
+- So far I am being fairly lenient about suspected AI use: I will get stricter about this as time goes on. I would rather see bad code you wrote yourself than good code you didn't.
 - If you're worried about grades, double check the grading section in the syllabus before you panic. Right now, since your only grades are from homework and participation, they have an outsize effect on what shows up in Brightspace.
-- You can miss up to 3 classes without it affecting your grade - I will add an extra 6 participation points to everyone's grade at the end of the semester.
-- Some extra credit opportunities will be introduced later in the semester, but these will only make up for missing points on participation or homework.
+- You can miss up to 3 classes without it affecting your grade.
+- Extra credit opportunities will be introduced later in the semester.
 
 ## Discussion Questions (20-30 minutes)
 
@@ -35,9 +36,7 @@
   4. Both readings frame their subjects — screensavers and generative music — as things people find appealing because they give up some control. Is there a point where too much randomness stops being interesting? Where's the line between "generative" and "just noise"? Come up with at least one example of each.
 
 Be prepared to share your answers with the class.
-## How to Write Good Documentation
 
-For every project in this class, you are required to write documentation. [Some tips for doing that](<./Writing Good Documentation.md>).
 
 
 ## **Tutorial:** Interaction with Conditionals and Events

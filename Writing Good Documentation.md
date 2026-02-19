@@ -12,11 +12,12 @@ For all assignments:
     - What had surprising outputs?
     - What were things you experimented with?
     - What experiment put you on the path for your final design?
+    - If you used AI or other external resources, what did you try before that, and how did they help you?
 2. Include resources you reached out to for help:
     - For StackOverflow, Youtube tutorials, p5 reference, p5 sketches you looked at: a link
     - For code-generating prompting tools: cite the platform (ChatGPT, Claude, Gemini, etc.) and provide a link to the chat.
     - I don't require academic citations, but providing them in a bulleted, readable list is very helpful.
-3. If you went beyond materials covered in class, explain **specifically** where you found them and how you implemented them. I strongly encourage you to do work on your own, but unfortunately thanks to ChatGPT doing so without citing your sources strongly implies that you didn't actually write your own code.
+3. If you went beyond materials covered in class, explain **specifically** where you found them and how you implemented them. I strongly encourage you to learn new things on your own time, but doing so without citing your sources implies that you didn't actually write your own code. This sucks for all of us, blame ChatGPT.
 
 
 
