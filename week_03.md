@@ -5,12 +5,13 @@
 1. Homework Notes & Writing Good Documentation
 2. Homework Review & Reading Discussion
 3. Lecture: Randomness
-4. Tutorial: Conditionals & Events
-5. Go over upcoming assignments
-		- Practice & reading for next week
-		- Presentations start next week! Pedro (Web Scraping) and Alex (Processing) are up first. Feel free to email me or come to office hours if you have questions about the presentations.
-		- Homework 3 due March 4
-6. Practice (if time)
+4. BREAK
+5. Tutorial: Conditionals & Events
+6. Go over upcoming assignments
+		* Practice & reading for next week
+		* Presentations start next week! Pedro (Web Scraping) and Alex (Processing) are up first. Feel free to email me or come to office hours if you have questions about the presentations.
+		* Homework 3 due March 4
+7. Practice (if time)
 
 ---
 
