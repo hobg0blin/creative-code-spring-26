@@ -20,11 +20,13 @@
 - Usually you'll have 2 weeks to work on a homework assignment, and no reading the week it's due.
 - Brightspace automatically gives you a 0 if you miss an assignment deadline, but for the record, you can turn in homework late! Your grade will be reduced by 10% for each day it's late, up to 50%.
 - That said, it is generally better to turn it in on time even if you don't feel good about it!
-- For every project in this class, you are required to write documentation. [Some tips for doing that](<./Writing Good Documentation.md>).
-- So far I am being fairly lenient about suspected AI use: I will get stricter about this as time goes on. I would rather see bad code you wrote yourself than good code you didn't.
 - If you're worried about grades, double check the grading section in the syllabus before you panic. Right now, since your only grades are from homework and participation, they have an outsize effect on what shows up in Brightspace.
 - You can miss up to 3 classes without it affecting your grade.
 - Extra credit opportunities will be introduced later in the semester.
+**The important part:**
+- For every project in this class, you are required to write documentation. [Some tips for doing that](<./Writing Good Documentation.md>).
+- So far I am being fairly lenient about suspected AI use: I will get stricter about this as time goes on. The official policy is if you fail to disclose the use of AI you receive a 0 on the assignment: you can use it, but you **must** include that in your documentation.
+- Generally: I would rather see bad code you wrote yourself than good code you didn't.
 
 ## Discussion Questions (20-30 minutes)
 
