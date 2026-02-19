@@ -23,7 +23,7 @@ For all assignments:
     - For StackOverflow, Youtube tutorials, p5 reference, p5 sketches you looked at: a link
     - For code-generating prompting tools: cite the platform (ChatGPT, Claude, Gemini, etc.) and provide a link to the chat.
     - I don't require academic citations, but providing them in a bulleted, readable list is very helpful.
-3. If you went beyond materials covered in class, explain **specifically** what they are, where you found them and how you implemented them. I strongly encourage you to learn new things on your own time, but doing so without citing your sources implies that you didn't actually write your own code. This sucks for all of us, blame ChatGPT.
+3. If you went beyond materials covered in class, explain **specifically** what they are, where you found them and how you implemented them. I strongly encourage you to learn new things on your own time, but doing so without citing your sources implies that you didn't actually write your own code. You are welcome to use AI if you get stuck - just explain *when*, *why*, and *how** you used it. This sucks for all of us, blame ChatGPT.
 4. From your notes, refine your documentation starting from your inspiration:
     - What projects did you look at?
     - What artists did you reference?
