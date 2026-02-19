@@ -2,30 +2,31 @@
 
 ## Agenda
 
-1. Homework Review
-2. Reading discussion
-3. How to Write Good Documentation
-4. Lecture: Randomness
-5. Tutorial: Conditionals & Events
-6. Go over upcoming assignments
+1. Homework Notes & Writing Good Documentation
+2. Homework Review & Reading Discussion
+3. Lecture: Randomness
+4. Tutorial: Conditionals & Events
+5. Go over upcoming assignments
 		- Practice & reading for next week
 		- Presentations start next week! Pedro (Web Scraping) and Alex (Processing) are up first. Feel free to email me or come to office hours if you have questions about the presentations.
 		- Homework 3 due March 4
-7. Practice (if time)
+6. Practice (if time)
 
 ---
 
 ## Homework/Grading Notes
-- Usually you'll have 2 weeks to work on a homework assignment, and no reading the week it's due - this week was weird because of the college calendar.
+
+- Usually you'll have 2 weeks to work on a homework assignment, and no reading the week it's due.
 - Brightspace automatically gives you a 0 if you miss an assignment deadline, but for the record, you can turn in homework late! Your grade will be reduced by 10% for each day it's late, up to 50%.
-- That said, it is generally better to turn it in on time even if you don't feel good about it! Again: coding is hard, I am not going to punish you for struggling as long as you show me that you tried.
+- That said, it is generally better to turn it in on time even if you don't feel good about it!
+- **CITE YOUR SOURCES**. If I see weird code that we haven't covered in class, I am going to ding you on code proficiency and syntax unless you explain where you got it from in your documentation (and show me that you at least understand what it does). You can use AI or StackOverflow, but cite them and show me that you didn't just copy and paste.
 - If you're worried about grades, double check the grading section in the syllabus before you panic. Right now, since your only grades are from homework and participation, they have an outsize effect on what shows up in Brightspace.
 - You can miss up to 3 classes without it affecting your grade - I will add an extra 6 participation points to everyone's grade at the end of the semester.
 - Some extra credit opportunities will be introduced later in the semester, but these will only make up for missing points on participation or homework.
 
 ## Discussion Questions (20-30 minutes)
 
-1. Share your screensaver with your group. Walk them through what's happening -what's moving, what variables are you using? If you got stuck anywhere, see if your group can help figure it out.
+1. Share your screensaver with your group. Walk them through what's happening -what's moving, what variables are you using? If you got stuck anywhere, see if your group can help figure it out. If not, mark down your questions and bring them up when we reconvene.
 2. The Eno reading describes generative music as "specifying a set of rules and then letting them make the thing." Looking at your screensaver, what are the "rules" you set up? How much of the final result did you predict vs. discover?
   3. What's the difference between let x = 5 and x = 5 (without let)? When would each cause a problem?
     - If you declare a variable inside draw(), what happens to it every frame? Why?
@@ -264,9 +265,7 @@ We know that `mousePressed()` is a function because of `()`
 
 ## Demos
 
-- Collisions
-- If statements - do things differently based on randomness
-
+- 
 ## Review Videos
 
 If you struggled with any of the material this week, please review these coding train videos!
