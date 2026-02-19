@@ -23,7 +23,7 @@
 - Brightspace automatically gives you a 0 if you miss an assignment deadline, but for the record, you can turn in homework late! Your grade will be reduced by 10% for each day it's late, up to 50%.
 - That said, it is generally better to turn it in on time even if you don't feel good about it!
 - If you're worried about grades, double check the grading section in the syllabus before you panic. Right now, since your only grades are from homework and participation, they have an outsize effect on what shows up in Brightspace.
-- You can miss up to 3 classes without it affecting your grade.
+- You can miss up to 3 classes without it affecting your grade - these will be dropped from the participation grade at the end of the semester.
 - Extra credit opportunities will be introduced later in the semester.
 **The important part:**
 - For every project in this class, you are required to write documentation. [Some tips for doing that](<./Writing Good Documentation.md>).
