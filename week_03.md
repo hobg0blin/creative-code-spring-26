@@ -8,10 +8,12 @@
 4. BREAK
 5. Tutorial: Conditionals & Events
 6. Go over upcoming assignments
+
 		- Practice & reading for next week
 		- Presentations start next week! Pedro (Web Scraping) and Alex (Processing) are up first. Feel free to email me or come to office hours if you have questions about the presentations.
-		- Homework 3 due March 4
-7. Practice (if time)
+		- Homework 3 due March
+   
+8. Practice (if time)
 
 ---
 
@@ -32,10 +34,10 @@
 
 1. Share your screensaver with your group. Walk them through what's happening -what's moving, what variables are you using? If you got stuck anywhere, see if your group can help figure it out. If not, mark down your questions and bring them up when we reconvene.
 2. The Eno reading describes generative music as "specifying a set of rules and then letting them make the thing." Looking at your screensaver, what are the "rules" you set up? How much of the final result did you predict vs. discover?
-  3. What's the difference between let x = 5 and x = 5 (without let)? When would each cause a problem?
+3. What's the difference between let x = 5 and x = 5 (without let)? When would each cause a problem?
     - If you declare a variable inside draw(), what happens to it every frame? Why?
     - What does x = x + 1 actually do, step by step?
-  4. Both readings frame their subjects — screensavers and generative music — as things people find appealing because they give up some control. Is there a point where too much randomness stops being interesting? Where's the line between "generative" and "just noise"? Come up with at least one example of each.
+4. Both readings frame their subjects — screensavers and generative music — as things people find appealing because they give up some control. Is there a point where too much randomness stops being interesting? Where's the line between "generative" and "just noise"? Come up with at least one example of each.
 
 Be prepared to share your answers with the class.
 
