@@ -271,7 +271,7 @@ We know that `mousePressed()` is a function because of `()`
 
 ## Demos
 
-- 
+- [In-class: Conditionals, events, and movement](https://editor.p5js.org/brondle/sketches/YI_AH4v2X)
 ## Review Videos
 
 If you struggled with any of the material this week, please review these coding train videos!
