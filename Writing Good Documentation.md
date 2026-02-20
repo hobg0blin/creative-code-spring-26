@@ -29,6 +29,7 @@ For all assignments:
    
 I strongly encourage you to learn new things on your own time, but if you do so without explaining your process I will assume that you didn't actually write your own code. You are allowed to use AI if you get stuck - just explain *when*, *why*, and *how* you used it, and do your best to learn something in the process. I know this is annoying, blame Sam Altman.
 
+
 5. From your notes, refine your documentation starting from your inspiration:
     - What projects did you look at?
     - What artists did you reference?
