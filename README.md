@@ -45,7 +45,7 @@ A typical week will look like:
 
 1. Student presentations
 2. Homework/reading discussion
-3. Short lecture
+3. Short lecture or tech demo
 4. Introduce new technical materials
 5. Practice new material
 
