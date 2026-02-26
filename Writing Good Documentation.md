@@ -1,6 +1,6 @@
 ## How to Write Good Documentation
 
-Feel free to reference this for future documentation.
+Feel free to reference this for future documentation. Not all of these may be applicable on a given week - consider them to be broad guidelines rather than strict requirements.
 
 If it is easier to write about your assignment in google doc, figma, slides, or whatever else that is totally fine, just make it accessible to me in some way. I've been trying to push BrightSpace but I recognize that it is kind of a huge hassle so do you what you gotta do.
 
