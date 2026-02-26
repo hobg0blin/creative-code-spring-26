@@ -185,11 +185,18 @@ There are a lot of ways to order code - because JavaScript uses [hoisting](https
 
 ---
 
-## Demos
+### Demos
 
-## Review Videos
+### Review Videos
 
 If you struggled with any of the material this week, please review these coding train videos!
 
 - [5.1 - function basics](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/5-functions/1-basics)
 - [5.2 - parameters and arguments](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/5-functions/2-arguments)
+
+### Misc Links
+
+- [Axidraw](https://axidraw.com/) - this is the pen plotter I used, my model is a V3.
+- [p5.plotSvg](https://github.com/golanlevin/p5.plotSvg) - the library we're using to write p5 sketches to SVGs.
+- [plotter drawings by Andy Wallace](https://shop.andymakes.com/) - plotter art by one of my favorite local artists!
+- [r/PlotterArt](https://www.reddit.com/r/PlotterArt/) - some plotter-related inspo.
