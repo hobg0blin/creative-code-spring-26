@@ -112,14 +112,14 @@ function myCoolNewFunction(myCoolParameter) {
 **Function uses**
 
 You can create functions that just **do something:**
-```
+```js
 function sayHello() {
 	console.log('hello!')
 }
 ```
 
 But you can also use functions to **return a value.** This is useful for things like setting variables, or long/complex if conditions:
-```
+```js
 function numPlusOne(num) {
 	return num + 1
 }
@@ -127,7 +127,7 @@ let x = 5
 let y = numPlusOne(x) // y is now 6
 ```
 
-```
+```js
 function containsName(myString, name) {
 	return myString.includes(name)
 }
