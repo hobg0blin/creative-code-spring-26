@@ -32,10 +32,10 @@ Generally: what do you disagree on or agree on as a group? What are you not sure
 
  In your groups, draw a body together **without looking at each other's sketches**. Split the body into parts based how many people are in your group. So if your group is four people, you could do something like:
  
- Person 1: Head
- Person 2: Torso
- Person 3: Legs
- Person 4: Feet
+ - Person 1: Head
+ - Person 2: Torso
+ - Person 3: Legs
+ - Person 4: Feet
 
  Each person's sketch should begin with a line that starts at `width/2, 0` and end with a line that ends at `width/2, height`. Include a `text()` function with your initials somewhere in the sketch. You'll have 20-30 minutes, then I'll smash them together and draw them all on my pen plotter.
 
