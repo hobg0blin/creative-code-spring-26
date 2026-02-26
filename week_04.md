@@ -30,16 +30,22 @@ In your groups, share your discussion posts, and discuss the following questions
 Generally: what do you disagree on or agree on as a group? What are you not sure about?
 ## Group Exercise: Plotter Exquisite Corpse 
 
- In your groups, draw a body together **without looking at each other's sketches**. Split the body into parts based how many people are in your group. So if your group is four people, you could do something like:
+- [demo sketch](https://editor.p5js.org/brondle/sketches/vGPkEDzbe) - try uncommenting the `sineWave()` and `labyrinth()` functions to see other possible demos.
+- [starter code](https://editor.p5js.org/brondle/sketches/Jrkondz1W) - use this as the base for your sketch.
+
+ In your groups, draw a body together in p5 **without looking at each other's sketches**. Split the body into parts based how many people are in your group. So if your group is four people, you could do something like:
  
  - Person 1: Head
  - Person 2: Torso
  - Person 3: Legs
  - Person 4: Feet
 
- Each person's sketch should begin with a line that starts at `width/2, 0` and end with a line that ends at `width/2, height`. Include a `text()` function with your initials somewhere in the sketch. You'll have 20-30 minutes, then I'll smash them together and draw them all on my pen plotter.
+ - Each person's sketch should begin with a line that starts at `width/2, 0` and end with a line that ends at `width/2, height`. 
+- You should use only lines and shapes - no points, please.
+- Color doesn't matter since it'll be drawn on the plotter.
+- Make sure you're using `noFill()` - it will take the plotter **forever** to fill in solid colors.
 
-Don't worry about color, and make sure to use noFill(), since this will be drawn on a pen plotter (so it'll just be lines and a single color). You'll have about 30 minutes.
+ You'll have about 30 minutes. You're welcome to adapt code you find online if you want, just make sure your it follows the requirements, and be warned that if your sketch is super complex it may take a very long time to draw.
 
 This is an experiment, so I apologize in advance if something breaks.
 
