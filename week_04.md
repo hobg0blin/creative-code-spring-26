@@ -186,6 +186,9 @@ There are a lot of ways to order code - because JavaScript uses [hoisting](https
 ---
 
 ### Demos
+- [Demo 1: Custom functions](https://editor.p5js.org/brondle/sketches/Mboy6lsHb)
+- [Demo 2: Code order](https://editor.p5js.org/brondle/sketches/p6Buog1Tf)
+- [Plotter demo](https://editor.p5js.org/brondle/sketches/vGPkEDzbe)
 
 ### Review Videos
 
