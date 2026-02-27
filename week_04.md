@@ -31,23 +31,10 @@ Generally: what do you disagree on or agree on as a group? What are you not sure
 ## Group Exercise: Plotter Exquisite Corpse 
 
 - [demo sketch](https://editor.p5js.org/brondle/sketches/vGPkEDzbe) - try uncommenting the `sineWave()` and `labyrinth()` functions to see other possible demos.
-- [starter code](https://editor.p5js.org/brondle/sketches/Jrkondz1W) - use this as the base for your sketch.
 
- In your groups, draw a body together in p5 **without looking at each other's sketches**. Split the body into parts based how many people are in your group. So if your group is four people, you could do something like:
- 
- - Person 1: Head
- - Person 2: Torso
- - Person 3: Legs
- - Person 4: Feet
 
- - Each person's sketch should begin with a line that starts at `width/2, 0` and end with a line that ends at `width/2, height`. 
-- You should use only lines and shapes - no points, please.
-- Color doesn't matter since it'll be drawn on the plotter.
-- Make sure you're using `noFill()` - it will take the plotter **forever** to fill in solid colors.
+We didn't have enough time for the exercise :(. I'll try and slot it into another week.
 
- You'll have about 30 minutes. You're welcome to adapt code you find online if you want, just make sure your it follows the requirements, and be warned that if your sketch is super complex it may take a very long time to draw.
-
-This is an experiment, so I apologize in advance if something breaks.
 
 **For the future:**
 
