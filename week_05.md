@@ -1,4 +1,5 @@
-**3/5/2026**
+# **3/5/2026**
+
 Agenda:
 1. Housekeeping
 	 - Guide to careers in the arts session tomorrow on Zoom from 2:30-3:30, RSVP [here](https://urldefense.com/v3/__https://huntercuny.joinhandshake.com/stu/events/1911182__;!!LAh5qUgpm5Y!BuztmxX_Mtu-xnCLBQ3WaAxOiOsE34046hEd97bWpwr8F7tEwR6pf9pg4LQUdGUyUEevhzSwOtKXOLf0U74JMuPUrtKj605IV6ML_-rsHAcEug$)
@@ -9,9 +10,13 @@ Agenda:
 4. Demo: recursion
 5. Tutorial: repetition & loops
 
-## Demo: Recursion
+---
+## Homework Discussion
 
-****
+In breakout rooms, share your projects and try to answer any questions you might have had issues with! We will share in groups for ~10-15 minutes, then come together as a class and look through everyone's work.
+
+---
+## Demo: Recursion
 ![](<../Attachments/image-7.png>)
 *Print Gallery*, MC Escher
 
