@@ -3,6 +3,7 @@
 Agenda:
 1. Housekeeping
 	 - Link to your sources! If you used ChatGPT/Gemini/whatever link to the chat!
+	 - I was foiled once again by Brightspace and accidentally made the homework an assignment instead of a discussion post. I will move everything over to a discussion forum tomorrow so you can see each other's work.
 	 - Guide to careers in the arts session tomorrow on Zoom from 2:30-3:30, RSVP [here](https://urldefense.com/v3/__https://huntercuny.joinhandshake.com/stu/events/1911182__;!!LAh5qUgpm5Y!BuztmxX_Mtu-xnCLBQ3WaAxOiOsE34046hEd97bWpwr8F7tEwR6pf9pg4LQUdGUyUEevhzSwOtKXOLf0U74JMuPUrtKj605IV6ML_-rsHAcEug$)
 	 - Practice assignment due next week (3/11)
 	 - Homework #4 due 3/18 (much less homework from here on out!)
