@@ -29,7 +29,7 @@ One interesting facet of programming languages is that they allow for recursion:
 1. Base case: a condition where the function terminates. If you don't have a base case, your function will run infinitely, which will usually cause your code to crash.
 2. Recursive case: a condition where the function should call itself.
 
-A very simple example in p5:
+A [very simple example in p5](https://editor.p5js.org/brondle/sketches/jn4E676U-):
 ![](<./images/image-11.png>)
 
 Gives us:
