@@ -31,11 +31,16 @@ One interesting facet of programming languages is that they allow for recursion:
 2. Recursive case: a condition where the function should call itself.
 
 A [very simple example in p5](https://editor.p5js.org/brondle/sketches/jn4E676U-):
+
+
 ![](<./images/image-11.png>)
 
 Gives us:
 
 ![](<./images/image-12.png>)
+
+Worth noting: recursive functions "bubble up": the code doesn't run until the last function is called after the base case. So, you can't really tell in the sketch, but the smallest circle is actually the one getting drawn first. For a more thorough explanation of this process, see the [call stack](https://medium.com/@marc.herman.rodriguez/recursion-and-the-call-stack-93666f923226).
+
 We can't *actually* compute infinity, but recursion allows us to create the illusion of doing so.
 
 Recursion is extremely useful in solving certain computational problems, but it also has neat artistic applications! Visually, we can think of Russian Nesting Dolls or the "endless mirror" effect of two mirrors facing each other. Recursion allows us to recreate these effects.
