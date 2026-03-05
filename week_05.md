@@ -72,7 +72,7 @@ Spend a few minutes trying out a couple of the tools below (no need to try all o
 4. [Nico's Fractal Machine](https://sciencevsmagic.net/fractal/#0060,0090,1,1,0,0,1)
 5. [UsefulJS Fractal builder](http://usefuljs.net/fractals/) - click and drag over a section of the canvas to zoom in. Not super intuitive.
 6. [Fractal Lab](https://hirnsohle.de/test/fractalLab/) - this is *not* beginner-friendly, but you can play around with the examples in *Fractal Library* if you want a challenge.
-link fixed
+link fixed???
 ## Tutorial: Repetition and Loops
 
 ### Review
