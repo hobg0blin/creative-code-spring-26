@@ -2,9 +2,11 @@
 
 Agenda:
 1. Housekeeping
+	 - Link to your sources! If you used ChatGPT/Gemini/whatever link to the chat!
 	 - Guide to careers in the arts session tomorrow on Zoom from 2:30-3:30, RSVP [here](https://urldefense.com/v3/__https://huntercuny.joinhandshake.com/stu/events/1911182__;!!LAh5qUgpm5Y!BuztmxX_Mtu-xnCLBQ3WaAxOiOsE34046hEd97bWpwr8F7tEwR6pf9pg4LQUdGUyUEevhzSwOtKXOLf0U74JMuPUrtKj605IV6ML_-rsHAcEug$)
 	 - Practice assignment due next week (3/11)
-	 - Homework #4 due 3/18
+	 - Homework #4 due 3/18 (much less homework from here on out!)
+	 - Extra credit is up! Feel free to look for other things that meet the criteria & I'll be updating it as I come across events.
 2. Presentations (Elijah and Desiree)
 3. Homework discussion
 4. Demo: recursion
@@ -13,11 +15,11 @@ Agenda:
 ---
 ## Homework Discussion
 
-In breakout rooms, share your projects and try to answer any questions you might have had issues with! We will share in groups for ~10-15 minutes, then come together as a class and look through everyone's work.
+In breakout rooms, share your projects, walk through your process and final outcomes, and try to answer any questions you might have had issues with! We will share in groups for ~10-15 minutes, then come together as a class and look through everyone's work.
 
 ---
 ## Demo: Recursion
-![](<../Attachments/image-7.png>)
+![](<./images/image-11 1.png>)
 *Print Gallery*, MC Escher
 
 > **Recursion = a function that calls itself.**
@@ -28,30 +30,30 @@ One interesting facet of programming languages is that they allow for recursion:
 2. Recursive case: a condition where the function should call itself.
 
 A very simple example in p5:
-![](<../Attachments/image-11.png>)
+![](<./images/image-11.png>)
 
 Gives us:
 
-![](<../Attachments/image-12.png>)
+![](<./images/image-12.png>)
 We can't *actually* compute infinity, but recursion allows us to create the illusion of doing so.
 
 Recursion is extremely useful in solving certain computational problems, but it also has neat artistic applications! Visually, we can think of Russian Nesting Dolls or the "endless mirror" effect of two mirrors facing each other. Recursion allows us to recreate these effects.
 
 
-![](<../Attachments/image-6.png>)
+![](<./images/image-6.png>)
 
 [**Droste Effect:**](https://en.wikipedia.org/wiki/Droste_effect): an image that contains itself, that then contains itself, that then contains itself, and so on. Named for the cocoa tin above.
 
-![Sierpinski Gasket](<../Attachments/Fractal_tree.gif>)
+![Sierpinski Gasket](<./images/Fractal_tree.gif>)
 
 Fractals: infinitely complex self-repeating patterns. Mandelbrot set, fractal trees, and many, many, more. Fractals contain patterns at *every zoom level*.
 
 **Examples**
 
-![](<../Attachments/image-13.png>)
+![](<./images/image-13.png>)
 The Alhambra ceiling.
 
-![](<../Attachments/image-14.png>)
+![](<./images/image-14.png>)
 African indigenous fractal architecture (Ron Eglash)
 
 Cyriak Harris - [whatever this is](https://www.youtube.com/watch?v=GAvS1ndtEKg), [hand fractals](https://mathcraft.wonderhowto.com/news/cyriak-harris-fractal-freakiness-0131000/)
