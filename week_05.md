@@ -171,6 +171,7 @@ for (let iterator = 0; iterator < 10; iterator += 1) {
 ---
 
 ## Demos
+- [For & While Loops](https://editor.p5js.org/brondle/sketches/gZtFKNnx8)
 
 ## Review Videos
 
