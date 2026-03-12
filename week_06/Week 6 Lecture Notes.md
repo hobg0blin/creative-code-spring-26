@@ -42,7 +42,7 @@ After Markov chains, people were convinced we were a few years away from true ar
 
 ### Bots
 
-Bots can be useful - weather or train updates - and in some cases are forms of citizen journalism, like [@congressedits](https://en.wikipedia.org/wiki/CongressEdits). 
+Bots can be useful - services for [weather](https://www.accuweather.com/twitter/twitbot.asp) or [train alerts](https://nyc.streetsblog.org/2023/05/03/twitter-citizen-takes-automated-subway-service-alerts-into-his-own-hands) - and in some cases are forms of citizen journalism, like [@congressedits](https://en.wikipedia.org/wiki/CongressEdits). 
 
 ![](<./images/image-22.png>)
 
