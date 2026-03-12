@@ -43,7 +43,7 @@ General stuff:
 | things you can ask me about: code, machine learning, the new media art industrial complex, working as a programmer, portfolio/resume review, grad school, games & gamedev | please ask me about these things in [office hours](https://calendly.com/brentlbailey/office-hours) - book by 5pm Wednesday |
 | what interests me: games, AI (good and bad), old computers                                                                                                                | what i spend my free time doing: writing, reading, playing ARC raiders, hanging out with my cat                            |
 
-![](<./images/week_01/ffion.webp>)
+![Ffion, a white cat, grooming himself on a patchwork quilt](<./images/week_01/ffion.webp>)
 
 This is Ffion, you'll probably meet him at some point.
 ### you
@@ -75,10 +75,10 @@ Make an account: <https://editor.p5js.org/>
 | How to submit homework                                 |                                                          |
 | ------------------------------------------------------ | -------------------------------------------------------- |
 | 1. Rename sketch to enable saving                      | ![../../images/week_01/1.png](<./images/week_01/1.png>)] |
-| 2. Save your sketch (you can also press ⌘+S or Ctrl+S) | ![](<./images/week_01/2.png>)                            |
+| 2. Save your sketch (you can also press ⌘+S or Ctrl+S) | ![p5.js File menu open with Save highlighted](<./images/week_01/2.png>)                            |
 | 3. Finish your assignment                              |                                                          |
-| 4. Tidy your code                                      | ![](<./images/week_01/tidy.png>)                         |
-| 5. Retrieve the URL and submit.                        | ![](<./images/week_01/url.png>)                          |
+| 4. Tidy your code                                      | ![p5.js Edit menu open with Tidy Code highlighted](<./images/week_01/tidy.png>)                         |
+| 5. Retrieve the URL and submit.                        | ![p5.js editor showing a named sketch with its shareable URL in the browser address bar](<./images/week_01/url.png>)                          |
 
 ### Definitions: Coding Glossary vs. p5 Glossary
 

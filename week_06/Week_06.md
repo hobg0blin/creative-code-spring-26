@@ -8,7 +8,7 @@
 
 ## [Lecture: Generative Text](<./Week 6 Lecture Notes.md>)
 
-[Exercise - Make Your Own Bot](<./Exercise - Make Your Own Bot.md>)
+## [Exercise - Make Your Own Bot](<./Exercise - Make Your Own Bot.md>)
 
 ## Tutorial: Data Structures I
 

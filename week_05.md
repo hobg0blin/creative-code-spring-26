@@ -20,7 +20,7 @@ In breakout rooms, share your projects, walk through your process and final outc
 
 ---
 ## Demo: Recursion
-![](<./images/image-11 1.png>)
+![MC Escher's Print Gallery — a lithograph of a man viewing a print that recursively contains the gallery itself](<./images/image-11 1.png>)
 *Print Gallery*, MC Escher
 
 > **Recursion = a function that calls itself.**
@@ -33,11 +33,11 @@ One interesting facet of programming languages is that they allow for recursion:
 A [very simple example in p5](https://editor.p5js.org/brondle/sketches/jn4E676U-):
 
 
-![](<./images/image-11.png>)
+![p5.js code for a recursiveCircle function with a base case (size <= 0) and a recursive case drawing shrinking concentric circles](<./images/image-11.png>)
 
 Gives us:
 
-![](<./images/image-12.png>)
+![Output of the recursive circle sketch: concentric circles decreasing in size toward the center](<./images/image-12.png>)
 
 Worth noting: recursive functions "bubble up": the code doesn't run until the last function is called after the base case. So, you can't really tell in the sketch, but the smallest circle is actually the one getting drawn first. For a more thorough explanation of this process, see the [call stack](https://medium.com/@marc.herman.rodriguez/recursion-and-the-call-stack-93666f923226).
 
@@ -46,7 +46,7 @@ We can't *actually* compute infinity, but recursion allows us to create the illu
 Recursion is extremely useful in solving certain computational problems, but it also has neat artistic applications! Visually, we can think of Russian Nesting Dolls or the "endless mirror" effect of two mirrors facing each other. Recursion allows us to recreate these effects.
 
 
-![](<./images/image-6.png>)
+![Vintage Droste Cacao tin showing a nurse holding a tray with the same tin on it, an early example of the Droste effect](<./images/image-6.png>)
 
 [**Droste Effect:**](https://en.wikipedia.org/wiki/Droste_effect): an image that contains itself, that then contains itself, that then contains itself, and so on. Named for the cocoa tin above.
 
@@ -56,10 +56,10 @@ Fractals: infinitely complex self-repeating patterns. Mandelbrot set, fractal tr
 
 **Examples**
 
-![](<./images/image-13.png>)
+![Ornate octagonal ceiling of the Alhambra palace covered in intricate fractal-like geometric patterns](<./images/image-13.png>)
 The Alhambra ceiling.
 
-![](<./images/image-14.png>)
+![Diagram by Ron Eglash showing the fractal structure of a Ba-ila village, with an aerial photo and iteration diagrams](<./images/image-14.png>)
 African indigenous fractal architecture (Ron Eglash)
 
 Cyriak Harris - [whatever this is](https://www.youtube.com/watch?v=GAvS1ndtEKg), [hand fractals](https://mathcraft.wonderhowto.com/news/cyriak-harris-fractal-freakiness-0131000/)
