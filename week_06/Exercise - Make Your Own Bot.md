@@ -32,3 +32,5 @@ If everything is formatted right, you should be able to see a preview post insid
 ![Blue Bots Done Quick post preview showing "Brent is feeling happy." posted by hunter-cc-testbot.bsky.social](<./images/image-17.png>)
 
 Once you're happy with your bot, you can post automatically by hitting "Post Now", or set a posting interval in "Posting Frequency".
+
+When you're done, add a link to your bot and copy and paste your JSON into the Bot Thread in Brightspace.
