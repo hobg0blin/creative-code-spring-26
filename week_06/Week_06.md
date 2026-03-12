@@ -1,10 +1,11 @@
 ## Agenda
 
-1. Presentations: Angel & Xiaomen
-2. Check-in: any questions about the practice, or in general? Class forum check-in
-3. Lecture - Bots & Generative Text
-4. Exercise: make your own bot
-5. Tutorial: Arrays & Data Structures
+1. Housekeeping: midterm assignment, class forum
+2. Presentations: Angel & Xiaomen
+3. Check-in: any questions about the practice, or in general?
+4. Lecture - Bots & Generative Text
+5. Exercise: make your own bot
+6. Tutorial: Arrays & Data Structures
 
 ## [Lecture: Generative Text](<./Week 6 Lecture Notes.md>)
 
