@@ -1,6 +1,6 @@
 ## Exercise
 
-Make your own bot with [Blue Bots, Done Quick](https://bluebotsdonequick.com/). You'll need a [Bluesky account](https://bsky.app/) to use for your bot (if you have a personal account, don't use it unless you're OK with the bot automatically posting to it!)
+Make your own bot with [Blue Bots, Done Quick](https://bluebotsdonequick.com/). You'll need a [Bluesky account](https://bsky.app/) to use for your bot (if you have a personal account, don't use it unless you're OK with the bot automatically posting to it!). You can call your bot whatever you want.
 
 ## Quick Guide
 

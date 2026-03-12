@@ -40,6 +40,29 @@ After Markov chains, people were convinced we were a few years away from true ar
 
 [Megawatt](https://apod.li/megawatt), Nick Montfort
 
+### Bots
+
+Bots can be useful - weather or train updates - and in some cases are forms of citizen journalism, like [@congressedits](https://en.wikipedia.org/wiki/CongressEdits). 
+
+![](<./images/image-22.png>)
+For this class, we're more interested in creative applications of bots. Unfortunately since Twitter became *X* they started charging heavily for API access, and it is no longer a bot-friendly place, but for a few years in the 2010s there was a beautiful little scene where people made art and meme bots for each other's entertainment.
+
 ![A post from @RoofSlapping@botsin.space reading "*slaps roof of your mouth* this bad boy can fit so many teeth in it"](<./images/Pasted image 20260311120249.png>)
 
 [Roof Slapping Bot](https://post.lurk.org/@RoofSlapping@botsin.space), Darius Kazemi
+
+![](<./images/image-18.png>)
+
+![](<./images/image-19.png>)
+
+[NYT First Said](https://bsky.app/profile/nyt-first-said.bsky.social) - Max Bittker, currently inactive
+
+![parrish-everyword-gallery-1](<../images/parrish-everyword-gallery-1.gif>)
+
+[Everyword]([https://the-next.eliterature.org/works/755/0/0/](https://www.decontextualize.com/2011/10/everyword-on-gawker/)) - Allison Parrish
+
+![](<./images/image-20.png>)
+
+[horse_ebooks](https://www.newyorker.com/tech/annals-of-technology/horse-ebooks-is-human-after-all) - initially a spambot that was then purchased by some BuzzFeed employees who used it as an art experiment - still not entirely clear what was human-written and what was bot-written.
+
+[A big, big list of bots](https://gist.github.com/derhuerst/1cb20598b692aa87d9bb)
