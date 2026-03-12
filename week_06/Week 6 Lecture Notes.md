@@ -2,6 +2,10 @@
 
 ## A Little Background on Generative Text
 
+![](<./images/image-23.png>)
+
+[A Hundred Thousand Billion Poems](https://en.wikipedia.org/wiki/A_Hundred_Thousand_Billion_Poems) - Raymond Queneau
+
 ![Text of "To Make a Dadaist Poem" by Tristan Tzara, 1920, with instructions for the cut-up technique](<./images/Pasted image 20260311120428.png>)
 
 I'm sure you'll be shocked to learn that generative text, like other techniques we've covered in class, has a history that significantly predates the invention of the computer. We've talked about Dada before in class: one of the original forms of generative text was dadaist poetry, or the [cut-up technique](https://en.wikipedia.org/wiki/Cut-up_technique) where you cut up a newspaper article, shake up the words, and write them down to make a poem. This has influenced writers like William Burroughs, but maybe more interestingly a *significant* number of songwriters, like David Bowie, Thom Yorke, and Jeff Mangum.
