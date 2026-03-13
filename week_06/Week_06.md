@@ -230,6 +230,8 @@ myObj.c = 20
 
 ## Demos
 
+- [In-class demo](https://editor.p5js.org/brondle/sketches/S969dWhz2)
+
 ## Useful/Misc Links
 - [Gutenberg, Dammit!](https://github.com/aparrish/gutenberg-poetry-corpus](https://github.com/aparrish/gutenberg-dammit)
 - [Markov Chains in p5](https://editor.p5js.org/codingtrain/sketches/Y6SvoMcyH)
