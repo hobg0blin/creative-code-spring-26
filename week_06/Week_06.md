@@ -229,6 +229,7 @@ myObj.c = 20
 * [object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
 
 ## Demos
+- [in-class](https://editor.p5js.org/brondle/sketches/S969dWhz2)
 
 ## Useful/Misc Links
 - [Gutenberg, Dammit!](https://github.com/aparrish/gutenberg-poetry-corpus](https://github.com/aparrish/gutenberg-dammit)
