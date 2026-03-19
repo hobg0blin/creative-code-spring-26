@@ -100,6 +100,8 @@ osc.amp(0.5, 0.1) // ramp to 0.5 over 0.1 seconds
 osc.amp(0, 0.3)   // fade out over 0.3 seconds
 ```
 
+Here's a [simple example](https://editor.p5js.org/brondle/sketches/OkxjJgYDd) of an oscillator in action.
+
 **loadSound in preload:**
 ```js
 let drumSound
@@ -128,7 +130,7 @@ These are roughly ordered from easier to harder - try to do at least two. You ca
 - Try adding your own sound files from [freesound.org](https://freesound.org/) or [sampleswap.org](https://sampleswap.org/) (or use your own sound files if you have them!)
 - Add extra pad objects for a wider range of sounds.
 - Add a visual pulse when a pad is active — change the rectangle's brightness or size
-- Add a `freq` property to the object so the oscillator's pitch changes based on `mouseY` while held — ([`osc.freq()`](https://p5js.org/reference/p5.sound/p5.Oscillator/#freq))
+- Modify frequency in the draw loop. Some suggestions: base it on time, frameCount, or mouse position ([`osc.freq()`](https://p5js.org/reference/p5.sound/p5.Oscillator/#freq)). See the [example](https://editor.p5js.org/brondle/sketches/OkxjJgYDd) for reference.
 - Add a `type` property to each pad object (`'sine'`, `'square'`, `'sawtooth'`, `'triangle'`) and pass it to the oscillator on creation — each pad will sound different — ([`p5.Oscillator`](https://p5js.org/reference/p5.sound/p5.Oscillator/))
 - Make it generative: use `setInterval` or a frame counter to trigger pads automatically in a random or sequential pattern
 - Try including one of [`osc.pan()`](https://p5js.org/reference/p5.sound/p5.Oscillator/#pan), [`p5.Reverb`](https://p5js.org/reference/p5.sound/p5.Reverb/), [`p5.Delay`](https://p5js.org/reference/p5.sound/p5.Delay/), or [`p5.Filter`](https://p5js.org/reference/p5.sound/p5.Filter/).
