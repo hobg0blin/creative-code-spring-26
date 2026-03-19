@@ -123,17 +123,15 @@ To add the p5.sound library in the editor: ≡ menu → Sketch Files → add lib
 
 ### Challenge: Make Your Own Synth
 
-These are roughly ordered from easier to harder - try to do at least two. You can also visit the [p5.sound reference](https://p5js.org/reference/p5.sound/) and implement something else from it if that sounds more interesting to you.
+These are roughly ordered from easier to harder - try to do at least two. You can also visit the [p5.sound reference](https://p5js.org/reference/p5.sound/) and implement something else from it if you find anything that interests you.
 
 - Try adding your own sound files from [freesound.org](https://freesound.org/) or [sampleswap.org](https://sampleswap.org/) (or use your own sound files if you have them!)
 - Add extra pad objects for a wider range of sounds.
 - Add a visual pulse when a pad is active — change the rectangle's brightness or size
 - Add a `freq` property to the object so the oscillator's pitch changes based on `mouseY` while held — ([`osc.freq()`](https://p5js.org/reference/p5.sound/p5.Oscillator/#freq))
 - Add a `type` property to each pad object (`'sine'`, `'square'`, `'sawtooth'`, `'triangle'`) and pass it to the oscillator on creation — each pad will sound different — ([`p5.Oscillator`](https://p5js.org/reference/p5.sound/p5.Oscillator/))
-- Add a `pan` property to each pad (values from -1 to 1) and call `osc.pan()` when triggering — spreads pads across the stereo field — ([`osc.pan()`](https://p5js.org/reference/p5.sound/p5.Oscillator/#pan))
-- Connect the oscillator to a reverb or delay effect using `.connect()` — try adjusting the room size or feedback to change the feel — ([`p5.Reverb`](https://p5js.org/reference/p5.sound/p5.Reverb/), [`p5.Delay`](https://p5js.org/reference/p5.sound/p5.Delay/))
-- Create a `p5.Filter` and connect the oscillator through it — map `mouseX` to the filter's cutoff frequency for a classic synth sweep effect — ([`p5.Filter`](https://p5js.org/reference/p5.sound/p5.Filter/))
 - Make it generative: use `setInterval` or a frame counter to trigger pads automatically in a random or sequential pattern
+- Try including one of [`osc.pan()`](https://p5js.org/reference/p5.sound/p5.Oscillator/#pan), [`p5.Reverb`](https://p5js.org/reference/p5.sound/p5.Reverb/), [`p5.Delay`](https://p5js.org/reference/p5.sound/p5.Delay/), or [`p5.Filter`](https://p5js.org/reference/p5.sound/p5.Filter/).
 ---
 
 ## Links
