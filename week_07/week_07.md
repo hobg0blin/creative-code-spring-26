@@ -30,10 +30,10 @@ Make a copy of [this template sketch](https://editor.p5js.org/brondle/sketches/H
 
 ### Using addons
 
-The p5 editor includes p5 sound by default, but it's worth noting that it's not part of the core p5 library. If you check your sketch files, you can see in `index.html`:
-![](<../../Attachments/image-24.png>)
+The p5 editor includes p5 sound by default, but it's worth noting that it's not part of the core p5 library. If you check your sketch files, you can see it in `index.html` (this html file is where our JavaScript sketch actually *lives* and is displayed - we mostly don't need to think about it, but those `<script></script>` tags are where all the libraries we use are referenced).
+![image-24](<../images/week_07/image-24.png>)
 
-We include it separately from p5 itself. This will come in handy later in the class when we cover other addons - you can include pretty much any JavaScript library this way if you get deeper into JavaScript coding in the future.
+Since it's a separate library, we have to reference it in its own `<script></script>` tag (explained [here](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/script)). This will come in handy later in the class when we cover other addons - you can include pretty much any JavaScript library this way if you get deeper into JavaScript coding in the future.
 ### Coding Glossary
 
 | term             | definition                                                               |
@@ -60,7 +60,7 @@ for (let i = 0; i < sounds.length; i++) {
   rect(i * 120, 150, 100, 100)
 }
 
-// for...of — cleaner when you don't need the index
+// for...of (shorthand for index-based loop)
 for (let sound of sounds) {
   console.log(sound.name)
 }
@@ -78,16 +78,15 @@ let greeter = {
 greeter.sayHello() // "Hello, I am Brent"
 ```
 
-`this` refers to the object the method belongs to. This is the key idea behind classes — next week we'll see a cleaner way to create many objects that share the same methods.
+`this` refers to the object the method belongs to. This is the key idea behind classes — next week we'll see a cleaner way to create many objects that share the same methods. As [this coding train fancam](https://www.youtube.com/watch?v=M5d7vygUPoQ) reminds us, never forget the `this dot` (original video [here](https://youtu.be/CKeyIbT3vXI?t=439&si=xrvdYfEKWZ07DLO9)).
 
 **Modifying arrays:**
 ```js
 let sounds = ["kick", "snare", "hi-hat"]
 
-sounds.pop()             // removes "hi-hat" — sounds is now ["kick", "snare"]
+sounds.pop()             // removes *and returns* "hi-hat" — sounds is now ["kick", "snare"]
 sounds.splice(0, 1)      // removes 1 element at index 0 — sounds is now ["snare"]
 sounds.slice(1,2) // returns a "slice" of the array - in this case, ["snare", "hi-hat"]
-]
 
 ```
 
@@ -117,7 +116,8 @@ function setup() {
 drumSound.play()
 ```
 
-To add the p5.sound library in the editor: ≡ menu → Sketch Files → add library. To upload audio files: ≡ menu → Sketch Files → upload.
+To upload audio files: ≡ menu (the arrow sign) → Sketch Files → "+" → Upload File.
+![](<../images/week_07/image-25.png>)
 
 ---
 
