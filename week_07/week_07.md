@@ -5,7 +5,7 @@
 1. Housekeeping - midterm, updates to extra credit list, participation grades
 2. Presentations
 3. Homework review
-4. Demo (if time): Generative Music & Making Music With Code
+4. (if time): Generative Music & Making Music With Code
 5. Tutorial: Data Structures & Sound
 
 ---

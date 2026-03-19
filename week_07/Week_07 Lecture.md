@@ -1,7 +1,7 @@
 
 ## Generative Music & Making Music With Code
 
-> **Generative music = music created by a system or process, not composed note-by-note by a human.**
+> **Generative music: music created by a system or process, not composed note-by-note by a human.**
 
 Like the generative text and images we've looked at, generative music has a history that long predates computers. The key is, as with other art forms we've looked at, rulesets that result in indeterminate results, from tape looping to improvisational systems.
 
@@ -15,7 +15,7 @@ Musicians are guided to repeat a series of 53 melodic fragments, individually de
 
 Keeps with the tradition of "happy accidents" in generative music - Reich used two tape recordings of a Pentecostal preacher to create the piece. The two fell out of sync, so Reich used phase shifting to explore all possible repeated harmonies before they eventually get back in sync with one another. Major inspiration for Eno.
 
-**La Monte Young**, *[Dream House](https://vimeo.com/62965018)* (1966-present)
+**La Monte Young**, ***[Dream House](https://vimeo.com/62965018)* (1966-present)**
 
 An audiovisual installation that produces a continuous sound based on 32 sine wave tones. The audio is experienced differently as you move throughout the space. The [permanent installation](https://www.melafoundation.org/) is in NYC, and you can visit it for extra credit - I highly recommend going in person, the videos don't do it justice.
 
@@ -32,7 +32,7 @@ An accident: Basinski was digitizing old analog tape loops when the tape began t
 
 ## Making Music With Code
 
-Pretty much everything you'll see in class today is built with the [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API). This can be pretty intimidating at first, but when you use libraries like p5 sound or Tone.js, you're effectively just writing code to create MIDI sound, the same output that Digital Audio Workstations like Ableton create. Using these tools, we can create our own synthesizers, either for users to make music in the traditional DAW mode or for our own extended/generative work.
+Pretty much everything you'll see in class today is built with the [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API). This can be pretty intimidating at first, but when you use libraries like p5 sound or Tone.js, you're effectively just writing code to create MIDI sound, the same output that Digital Audio Workstations like Ableton create. Using these tools, we can create our own synthesizers, either for users to make music in the traditional DAW mode or for our own extended/generative work. Making music with code really centers around a few simple concepts:
 
 *A quick aside: I am **not** a musician - if there are any musicians in class who find issues with these explanations, feel free to butt in.
 
@@ -50,7 +50,7 @@ These map directly to the `osc.freq()` and `osc.amp()` calls in p5.sound.
 Two basic ways to make sound with code:
 
 - **Synthesis** — generate a waveform mathematically. No audio file needed. This is what an oscillator does.
-- **Sampling** — play back a recorded audio file. More realistic-sounding, but you need the file. This is what `loadSound()` does.
+- **Sampling** — play back a recorded audio file. This is what `loadSound()` does.
 
 Most music software uses both. A drum kit is usually samples; a synth lead is usually synthesized.
 
@@ -65,7 +65,9 @@ When you create an oscillator, you pick a waveform shape. Each has a distinct ti
 | square | buzzy, hollow — classic 8-bit sound |
 | sawtooth | bright, harsh — classic synth/lead sound |
 
-All four produce the same pitch at the same frequency; the shape changes the *color* of the sound.
+All four produce the same pitch at the same frequency; the shape changes the *tone* of the sound.
+
+Using an oscillator with a chosen waveform, frequency, and amplitude is how we make synthesized sounds.
 
 
 **Fun examples:**
@@ -76,14 +78,14 @@ All four produce the same pitch at the same frequency; the shape changes the *co
 
 ### Live Coding
 
-Live coding is a performance practice where code is written or modified in real time, usually with the screen projected for the audience. The music (or visuals, or both) changes as the performer edits — errors, rewrites, and half-finished ideas included. The process is the performance.
+Live coding is a performance practice where code is written or modified in real time, usually with the screen projected for the audience. The music (or visuals, or both) changes as the performer edits — they write code the same way traditional performers play their instruments.
 
-It has a loose global community organized around [TOPLAP](https://toplap.org/), which promotes a "show your work" ethos: the screen is always visible, nothing is pre-baked. [livecode.nyc](https://livecode.nyc/) is the local chapter - you can also go to one of their meetups or events for extra credit!
+Live coding has a loose global community organized around [TOPLAP](https://toplap.org/). [livecode.nyc](https://livecode.nyc/) is the local chapter - you can also go to one of their meetups or events for extra credit!
 
 **Practitioners:**
-- **[Alex McLean](https://yaxu.org/)** (aka yaxu) — one of the founders of TOPLAP and creator of TidalCycles, the pattern language that Strudel is based on. [Performance example](https://www.youtube.com/watch?v=XifWBDnFEGs).
-- **[Sam Aaron](https://sam.aaron.name/)** — creator of Sonic Pi, which started as an educational tool for teaching programming through music and grew into a serious live performance instrument. [Performance example](https://www.youtube.com/watch?v=ENfyOndh03c).
-- **[Kindohm](https://kindohm.com/)** (Mike Hodnick) — Minneapolis-based livecoder, works primarily in TidalCycles. Known for dense, industrial-influenced patterns. [Performance example](https://www.youtube.com/watch?v=GXbUiQBLrXA).
+- **[Alex McLean](https://yaxu.org/)** (aka yaxu) — one of the founders of TOPLAP and creator of TidalCycles, the pattern language that Strudel is based on. [Performance example]([https://www.youtube.com/watch?v=XifWBDnFEGs](https://www.youtube.com/watch?v=fIuqDKzYBzc)).
+- **[Sam Aaron](https://sam.aaron.name/)** — creator of Sonic Pi, which started as an educational tool for teaching programming through music and grew into a serious live performance instrument. 
+- **[Kindohm](https://kindohm.com/)** (Mike Hodnick) — Minneapolis-based livecoder, works primarily in TidalCycles. Known for dense, industrial-influenced patterns.
 - **[Olivia Jack](https://ojack.xyz/)** — creator of [Hydra](https://hydra.ojack.xyz/), a browser-based live coding environment for visuals. Often combined with live-coded audio; a good example of the audio/visual pairing that runs through a lot of this work.
 - **[DJ Dave](https://www.youtube.com/watch?v=JiQHclg_648)** — often performs with [Char Stiles](https://www.youtube.com/watch?v=lEJiP4JGEh0) handling live-coded visuals simultaneously.
 
@@ -92,4 +94,4 @@ It has a loose global community organized around [TOPLAP](https://toplap.org/), 
 - [Strudel](https://strudel.cc/) — browser-based port of TidalCycles. Pattern-focused, JS syntax.
 - [Gibber](https://gibber.cc/playground/index.html) — browser-based, more visual feedback than Strudel.
 - [Hydra](https://hydra.ojack.xyz/) — browser-based live coding for visuals; pairs well with Strudel or Gibber for audio.
-- [Orca](https://hundredrabbits.itch.io/orca) — esoteric: a 2D grid of characters that generate MIDI events in real time. Very different from the others.
+- [Orca](https://hundredrabbits.itch.io/orca) — esoteric: a 2D grid of characters that generate MIDI events in real time. Made by [100 Rabbits](https://100r.co/site/home.html), a 2-person art collective that live on a houseboat!
