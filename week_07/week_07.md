@@ -2,10 +2,10 @@
 
 ## Agenda
 
-1. Housekeeping - midterm, updates to extra credit list
+1. Housekeeping - midterm, updates to extra credit list, participation grades
 2. Presentations
 3. Homework review
-4. Demo/Lecture: Generative Music & Making Music With Code
+4. Demo (if time): Generative Music & Making Music With Code
 5. Tutorial: Data Structures & Sound
 
 ---
@@ -25,6 +25,8 @@ In breakout rooms, share your projects and try to answer any questions you had! 
 ---
 
 ## Tutorial: Data Structures & Sound
+
+Make a copy of [this template sketch](https://editor.p5js.org/brondle/sketches/HheHy1CxA) for your in-class work - we'll be using a sound file that's saved in it.
 
 ### Using addons
 
