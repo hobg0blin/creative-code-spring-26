@@ -138,7 +138,7 @@ These are roughly ordered from easier to harder - try to do at least two. You ca
 
 ## Links
 ### Demo
-- 
+- [In-class demo: simple synth](https://editor.p5js.org/brondle/sketches/p8x0zXApG)
 ### Review
 -  [Coding Train 7.1 — What is an Array?](https://www.youtube.com/watch?v=VIQoUghHSxU)
 - [Coding Train 7.2 — Arrays and Loops](https://www.youtube.com/watch?v=RXWO3mFuW-I)
