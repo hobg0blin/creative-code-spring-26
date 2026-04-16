@@ -69,7 +69,6 @@ All four produce the same pitch at the same frequency; the shape changes the *to
 
 Using an oscillator with a chosen waveform, frequency, and amplitude is how we make synthesized sounds.
 
-
 **Fun examples:**
 - [otomata](https://marwahaha.github.io/otomata/): make music with a cellular automata grid
 - [patatap](https://patatap.com/): built with Tone.js - shapes that correspond to sound. More [here](https://en.wikipedia.org/wiki/Patatap)
