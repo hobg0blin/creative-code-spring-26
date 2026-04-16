@@ -3,9 +3,6 @@
 ## Agenda
 
 1. Welcome back, check-in
-		- If you're missing any grades or have resubmitted assignments, email me!
-		- If you're missing any assignments, you have until the end of the semester to submit them late for partial credit.
-		- Make-up class next week - will record lecture/tutorial for those who can't make it
 2. Presentations (Daniel, Jieying)
 3. Midterm review
 4. Lecture: AI & creative code
