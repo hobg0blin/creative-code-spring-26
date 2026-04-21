@@ -9,7 +9,7 @@
 
 
 ---
-For your sketch this week, make a copy of [this starter]([https://editor.p5js.org/brondle/sketches/p8x0zXApG](https://editor.p5js.org/brondle/sketches/K77KNzQA2)) 
+For your sketch this week, make a copy of [this starter](https://editor.p5js.org/brondle/sketches/p8x0zXApG) 
 ## Coding Glossary
 
 | term        | definition                                                                                                               |
