@@ -40,7 +40,7 @@ let pad = {
 }
 ```
 
-If we want *a bunch* of these, we end up copy-pasting the whole shape every time. And if we want to change how all pads work, we have to update every copy. Classes solve this by letting us define the shape **once**, then stamp out as many as we need.
+If we want *a bunch* of these, we end up copy-pasting the whole structure. And if we want to change how all pads work, we have to update every copy. Classes solve this by letting us define the shape **once**, then make as many as we need.
 
 ```js
 class Pad {
@@ -79,7 +79,7 @@ constructor(name, color, freq) {
 }
 ```
 
-You can think of the constructor as a little setup routine for each instance. Anything you want every pad to have from the moment it exists — a property, an oscillator, a starting value — goes here.
+You can think of the constructor as a little setup routine for each instance. Anything you want every pad to have from the moment it exists - a property, an oscillator, a starting value - goes here.
 
 ### `this` again
 
@@ -106,13 +106,87 @@ let p = new Pad("A")
 p.greet() // "hi, i am A"
 ```
 
-Note: inside a class body, methods are *not* separated by commas. This is a common bug when people are coming from the world of object literals.
+Note: inside a class body, methods are *not* separated by commas. This is a common mistake when people are coming from the world of object literals.
 
 ---
 
-## The classes were inside p5 all along
+## Inheritance
 
-Every time you've written `new p5.Oscillator('sine')` or `new p5.Reverb()`, you've been calling a constructor. *Tons* of p5 objects are just class instances - OOP is a great programming paradigm and p5 uses it liberally.
+Sometimes you have several classes that share most of their behavior but differ in one or two specific ways. Rather than copy-pasting all the shared stuff, we can use **inheritance**: define a *base class* that holds the shared behavior, then make *subclasses* that only describe what's different.
+
+```js
+class Pad {
+  constructor(name, color) {
+    this.name = name
+    this.color = color
+  }
+
+  draw() { /* shared drawing logic */ }
+
+  play() { /* base behavior */ }
+}
+
+class SamplePad extends Pad {
+  constructor(name, color, sample) {
+    super(name, color)   // call the parent constructor first
+    this.sample = sample
+  }
+
+  play() {
+    super.play()         // call the parent's play()
+    this.sample.play()   // then add our own behavior
+  }
+}
+```
+
+- **`extends`** means "this class is a kind of that class." A `SamplePad` *is a* `Pad`.
+- **`super(...)`** inside a subclass constructor calls the parent's constructor. You have to call it before you can use `this`.
+- **`super.method()`** calls the parent's version of a method — useful when you want to *extend* behavior, not replace it.
+- **Overriding**: if a subclass defines a method that already exists on the parent, the subclass version wins. JavaScript always picks the most specific one.
+
+### Polymorphism
+
+Because `SamplePad` *is a* `Pad`, you can put both kinds into the same array and treat them the same way:
+
+```js
+for (let p of pads) {
+	p.play()
+}
+```
+
+The main sketch doesn't know (or care) which kind of pad it's dealing with — it just calls `.play()` and each instance does the right thing. This is called **polymorphism** and it's one of the main reasons OOP is powerful.
+
+### `instanceof`
+
+If you ever *do* need to check what kind of subclass something is:
+
+```js
+if (pads[i] instanceof SamplePad) {
+  console.log("that was a sample!")
+}
+```
+
+Most of the time you don't need to, you can just call the method and let the class figure it out. If you find yourself writing a lot of `instanceof` checks, that's usually a sign more behavior should move into the classes themselves.
+
+---
+
+## Things To Know
+
+### Inheritance vs. Composition 
+
+Inheritance is powerful, but it can get confusing fast. A good rule of thumb: use inheritance for **"is-a" relationships** (a `SamplePad` *is a* `Pad`). Use **composition** - storing other objects as properties - for **"has-a" relationships** (a `Pad` *has* an `Oscillator`).
+
+A lot of beginner OOP code ends up with long inheritance chains that are impossible to follow. If you're not sure whether to inherit, default to composition.
+
+### Avoid Overcomplicating Things
+
+Classes are great when you have many things that share behavior and state. They're overkill when you just need a single object or a loose bag of data. Not every sketch needs classes! The moment to reach for a class is when you notice yourself duplicating structure, or when an object needs to track its own state and behavior over time.
+
+The general rule for all the tricks we've learned so far is "DRY": Don't Repeat Yourself. If you're writing the same line or segment of code over and over again, think about ways you could make it into a function, object, or class - it makes your code more readable, easier to write, and less confusing. Comments are great, and you should use them as much as possible, but the best code is code that's so easy to understand it *doesn't need* comments.
+
+### The Classes Were Already Inside The House
+
+`"hello".toUpperCase()`, `[1,2,3].push(4)`, `mouseX.toFixed(2)` — these all work because strings, arrays, and numbers are all instances of built-in classes. JavaScript `class` syntax just gives you a clean way to define your own.
 
 ---
 
