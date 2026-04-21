@@ -203,3 +203,5 @@ The general rule for all the tricks we've learned so far is "DRY": Don't Repeat 
 - [MDN: Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 - [MDN: `new` operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new)
 
+## Other Interesting Stuff
+- [Functional vs. Object-Oriented Programming](https://circleci.com/blog/functional-vs-object-oriented-programming/) - these are the two main paradigms. Functional *can* be a lot more powerful, but is generally considered a lot harder to write and read.
