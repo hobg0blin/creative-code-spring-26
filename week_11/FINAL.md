@@ -24,6 +24,8 @@ Good benchmarks for choosing a library to work with:
 - Are there a lot of tutorials using the library?
 - Is it an interesting topic to you?
 
+It is your responsibility to make sure the library *works* and you can make something with it before starting your project - p5 is pretty good about maintaining their list of community libraries, but sometimes they break!
+
 ### Option 2:
 
 Roll your own tool! Build a library or tool that other people can use: this could be a visualizer with sliders/knobs/etc., a custom synthesizer, or a reusable library for a specific purpose: for example, drawing lissajous curves or generating haikus. If you are more comfortable in a language or framework other than p5, you can use any programming language you like - the project should, however, use techniques covered in class and be accessible *in the browser*.
@@ -34,6 +36,11 @@ If you choose to build something on top of something we've done in class, it sho
 - how it works
 - short demo.
 
-
 **If you choose this option, you must email me a short proposal and get my signoff by April 30th.**
+
+
+## For Both Options:
+
+- Your presentation should be ready to share by start of class on May 14th. 
+- Your final demo sketch and any accompanying materials should be submitted by the end of class on May 14th.
 

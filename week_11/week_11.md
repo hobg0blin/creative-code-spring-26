@@ -12,11 +12,13 @@ p5.js and p5.sound.js are two core frameworks that we have used in this class th
 
 You can see a full list of the libraries of p5 by visiting https://p5js.org/libraries/directory/.
 
+## Quick Notes on Webcams
+- p5 webcam processing can have issues if you have multiple webcams. The browser *should* allow you to select a webcam, but if you're repeatedly running into issues try in a different browser.
+- Especially once we get into using ml5, your sketch may take a while to load - loading a full machine learning model in the browser is time-consuming. Wait a bit before assuming it's broken.
+
 ### Video Explorations
 
-We can leverage the webcam to do a lot of things inside p5.js, and we can even manipulate individual pixels.
-
-Let's start with regular pixel manipulation and then add a library on top of it.
+We can leverage the webcam to do a lot of things inside p5.js: play with its output, mess with individual pixels, and even add libraries on top of it to do things like pose detection or image glitch - we'll touch on as much of this as we can today.
 
 The most important line of code for video allows us to enable webcam usage.
 
@@ -25,7 +27,7 @@ The most important line of code for video allows us to enable webcam usage.
 webcam = createCapture(VIDEO);
 ```
 
-We could _also_ use a phone camera instead if we wanted
+We could _also_ use a phone camera instead if we wanted:
 
 ```js
 // if i am using a phone camera
@@ -45,7 +47,7 @@ let constraints = {
 webcam = createCapture(constraints);
 ```
 
-What this does is allow us to add the webcam as an HTML element. If we wanted to hide that element and just display the camera on the screen, we could write
+This allows us to add the webcam as an HTML element. If we wanted to hide that element and just display the camera on the screen, we could write:
 
 ```js
 //... in the setup
