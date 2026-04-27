@@ -68,6 +68,7 @@ The first thing we always do when using an external library is open up our `inde
 ```
 
 ## Demos and Resources
+- [In-class #11](https://editor.p5js.org/brondle/sketches/CeMMtRMwZ)
 
 ### Demos
 
