@@ -11,7 +11,8 @@
 
 ## Housekeeping
 
-- Final project: option 2 proposals due **today** (4/30) by email - sign-off needed.
+- Final project: option 2 proposals due **today** (4/30) by email.
+- Teacher evaluations - please fill these out! They help me figure out how to adjust the class over time and improve it for future students.
 
 ---
 
@@ -21,7 +22,7 @@ You know the drill by now! Add your feedback to the [class doc](https://cryptpad
 
 ---
 
-## Tutorial: Loading data in p5
+## Tutorial: Working with data in p5
 
 First, review the [NYC Squirrel Census](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw) - to see the dataset itself, click "Data".
 In your sketch, you'll want to add
@@ -86,7 +87,20 @@ data = loadJSON("https://earthquake.usgs.gov/.../all_hour.geojson")
 
 A local file and an API are the same thing as far as `loadJSON` is concerned, it will figure out which it is and load the data regardless.
 
-### Gotchas
+### `map()`
+
+Almost every line of viz code is "map a range of data values into something that fits in our sketch":
+
+```js
+let x = map(book.year,   1960, 2025, 50, width - 50)
+let y = map(book.pages,  100,  600,  height - 50, 50)  // y flipped
+let r = map(book.rating, 1,    5,    4,  30)
+```
+
+
+## Gotchas
+
+### Async loading
 
 `loadJSON` returns a placeholder object that gets *populated* later, after the file finishes loading. So **you can't access sub-fields of an object inside `preload()`** - they're not there yet:
 
@@ -116,18 +130,11 @@ Same rules apply for `loadImage()` and other `load` functions in p5.
 Field-name typos are silent. Before you draw anything:
 
 ```js
-console.log("loaded dataL ", raw()
+// if you want to access eg raw.earthquakes
+console.log("loaded data: ", raw.earthquacks)
+// if nothing shows up in the logs, you might have a typo!
 ```
 
-### `map()`
-
-Almost every line of viz code is "map a range of data values into something that fits in our sketch":
-
-```js
-let x = map(book.year,   1960, 2025, 50, width - 50)
-let y = map(book.pages,  100,  600,  height - 50, 50)  // y flipped
-let r = map(book.rating, 1,    5,    4,  30)
-```
 
 ---
 
@@ -152,7 +159,7 @@ Examples:
 **Step 2 - visualize:**
 In p5, draw **one symbol per row**. Pick a base shape (circle, blob, weird creature, plant, whatever) and decide how each attribute changes the symbol - size, color, stroke weight, rotation, number of legs/petals/spikes, position on the canvas, etc. Then draw all five. Write your legend down somewhere so you can reference it.
 
-Don't worry about whether it's easy to understand. *Dear Data* postcards aren't readable either; that's the point. Focus on *expressiveness*.
+Don't worry about whether it's easy to understand, just focus on expressiveness.
 
 You can hardcode the data as an array of objects at the top - no need to load a file:
 
@@ -177,9 +184,8 @@ Drop a screenshot in the chat with a one-line legend ("size = enjoyment, color =
 
 ## Before next class
 
-- Next week: we'll take some time to do guided work on finals. Bring your final in whatever state it's in and any questions you have about it.
-- Final project due **5/14**.
-- If you took option 2: I need your proposal email **today** for sign-off.
+- Next week: we'll take some time to do guided work on finals - by next week, you should have selected a topic and started your research/designing your demo sketch.
+- If you want to do option 2, send me a proposal **today**!
 
 ---
 
