@@ -11,10 +11,10 @@
 
 ## Housekeeping
 
-- Final project: option 2 proposals due **today** (4/30) by email.
-- Teacher evals: [phone link](https://orapp.hunter.cuny.edu/ords/f?p=174:3), [computer link](https://orapp.hunter.cuny.edu/ords/f?p=173:3). Please fill these out! It helps me a lot when updating my classes for the new semester.
+- Final project: option 2 proposals due **today** (4/30) by email - sign-off needed.
 
 ---
+
 ## Presentations
 
 You know the drill by now! Add your feedback to the [class doc](https://cryptpad.fr/doc/#/2/doc/edit/DNEhyy68JqoUKqIDtyV5YZG3/).
@@ -131,16 +131,17 @@ let r = map(book.rating, 1,    5,    4,  30)
 
 ---
 
-## Exercise 2: Personal Data
+## Exercise: Personal Data
 
 In *Dear Data*, every postcard has a tiny custom symbol drawn for each row of data, and each feature means something. For example, the postcard was "phone calls I took this week", it could be a circle where:
 - circumference represents the conversation length
-- color represents how it made you feel
+- color represents how it made you feel (red for angry to blue for peaceful)
+- stroke width represents volume (wider is louder)
 
 We're going to make our own version of this - pull up [a few postcards](http://www.dear-data.com/all) if you want a reference.
 
 **Step 1 - collect :**
-Write down a tiny personal dataset of **at least 5 items** with **at least 2 attributes** each. Take some time to come up with something interesting! Think about how you'll express each thing: a Boolean (`true`/`false`) can only be expressed in one of two ways, while a number can have a wide range.
+Write down a tiny personal dataset of **at least 5 items** with **at least 2 attributes** each. Take some time to come up with something interesting!
 
 Examples:
 - Last 5 things you ate (food, time of day, how much you enjoyed it 1–5)
@@ -157,8 +158,8 @@ You can hardcode the data as an array of objects at the top - no need to load a 
 
 ```js
 let meals = [
-  { food: "bagel", time: 9, enjoyment: 4, alone: true },
-  { food: "salad", time: 13, enjoyment: 2, alone: false },
+  { food: "bagel", time: 9, enjoyment: 4 },
+  { food: "salad", time: 13, enjoyment: 2 },
   // ...
 ]
 // then loop over meals and draw one symbol per entry
@@ -177,12 +178,16 @@ Drop a screenshot in the chat with a one-line legend ("size = enjoyment, color =
 ## Before next class
 
 - Next week: we'll take some time to do guided work on finals. Bring your final in whatever state it's in and any questions you have about it.
-- Final project due **5/14** (full presentation).
+- Final project due **5/14**.
 - If you took option 2: I need your proposal email **today** for sign-off.
 
 ---
 
-## References & links
+## Demo & Resources
+
+### Demo:
+
+### Resources:
 
 - [Library of Missing Datasets - Mimi Ọnụọha](https://materialising-data.org/2020/06/19/mimi-onuoha-the-library-of-missing-datasets/)
 - [Mimi Ọnụọha's site](https://www.mimionuoha.com/)
