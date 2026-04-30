@@ -25,11 +25,12 @@ You know the drill by now! Add your feedback to the [class doc](https://cryptpad
 ## Tutorial: Working with data in p5
 
 First, review the [NYC Squirrel Census](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw) - to see the dataset itself, click "Data".
-In your sketch, you'll want to add
+
+Copy [this starter sketch](https://editor.p5js.org/brondle/sketches/xcZYkKi-X) for following along - you'll notice the `index.html` includes an external library:
 ```html
 <script src="https://cdn.jsdelivr.net/npm/chroma-js@2.4.2/chroma.min.js"></script>
 ```
-to `index.html`, the same as we did with `ml5.js` last week. We'll be using [chroma.js](https://gka.github.io/chroma.js/) to add some color to our visualizations.
+This includes external code, the same as we did with `ml5.js` last week. We'll be using [chroma.js](https://gka.github.io/chroma.js/) to add some color to our visualizations.
 ### Coding Glossary
 
 | Review               |                                                                                                                         |
