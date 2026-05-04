@@ -193,7 +193,7 @@ Drop a screenshot in the chat with a one-line legend ("size = enjoyment, color =
 ## Demo & Resources
 
 ### Demo:
-
+- [Class 12 Demo](https://editor.p5js.org/brondle/sketches/vZ2mxUzOJ)
 ### Resources:
 
 - [Library of Missing Datasets - Mimi Ọnụọha](https://materialising-data.org/2020/06/19/mimi-onuoha-the-library-of-missing-datasets/)
